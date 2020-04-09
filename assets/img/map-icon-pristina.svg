@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="28"
+   width="28"
+   xml:space="preserve"
+   viewBox="0 0 28 28"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:#3DA59A;}
+</style>
+<polygon
+   transform="matrix(0.56079068,0,0,0.56079068,0.54102355,1.4957757)"
+   style="fill:#0876a4;fill-opacity:1;stroke:#ffffff;stroke-width:1.83686173;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="polygon4"
+   points="11.5,18 11.5,34.8 36.5,34.8 36.5,17.6 24.1,9.8 "
+   class="st0" />
+</svg>

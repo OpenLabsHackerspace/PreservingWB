@@ -1,0 +1,314 @@
+---
+layout: default
+---
+{% if page.map-level=="city" and page.map=="tirana" %}
+<div class="map-container-tirana">
+  <div id="map"></div>
+</div>
+{% elsif page.map-level=="city" and page.map=="pristina" %}
+<div class="map-container-pristina">
+  <div id="map"></div>
+</div>
+{% else %}
+<div class="map-container">
+  <div id="map"></div>
+</div>
+{% endif %}
+
+<div class="info-container">
+    {% include description.html %}
+
+
+  <div class="event-list"></div>
+
+  <p class="footer">Made with ❤️ by
+    <a href="/team" target="_blank" >Team</a>. Find the source code
+    <a href="https://github.com/OpenLabsHackerspace/PreservingWB" target="_blank" rel="noopener">on Github</a>.
+  </p>
+  <p class="footer">Bibliography of the project is documented
+    <a href="/bibliography" target="_blank" >here</a>.
+  </p>
+  <p><img style="margin-left: -0.6%;" src="/assets/img/logo-sponsors.png" width="100%" height="auto"></p>
+
+</div>
+<script src="/assets/js/leaflet-src.js"></script>
+<script src="/assets/js/leaflet-providers.js"></script>
+<script src="/assets/js/leaflet-omnivore.min.js"></script>
+<script src="/assets/js/top.min.js"></script>
+
+<script>
+
+{% if page.map-level=="country" or page.map-level=="region" %}
+
+  var exp = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=(),]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=,()]*)/gi;
+  var regexp = new RegExp(exp);
+
+  var eventsList = document.querySelector('.event-list')
+
+  var map = L.map('map').setView([41.344, 19.696], 8);
+  L.tileLayer.provider('CartoDB.Positron').addTo(map);
+
+  var GreenIcon = L.icon({
+    iconUrl: 'img/map_icon.png',
+    iconRetinaUrl: 'img/map_icon.png',
+    iconSize: [28, 28]
+  });
+
+var eventsLayer = omnivore.geojson('/geodata/{{page.map-level}}/{{page.map}}.geojson')
+
+    .on('ready', function() {
+        map.fitBounds(eventsLayer.getBounds());
+
+        eventsLayer.eachLayer(function(layer) {
+            if (layer instanceof L.Marker) {
+                layer.setIcon(GreenIcon);
+            }
+
+            var title = layer.feature.properties.name;
+            var description = layer.feature.properties.description;
+
+
+
+            var eventListItemContent = '';
+
+            layer.on('click', onPinClick);
+
+            function onPinClick(e) {
+                window.open(layer.feature.properties.url, '_self');
+            }
+
+            map.on('click', onOutClick);
+
+            function onOutClick(e) {
+                document.getElementById(`${title}`).style.border = "0.15rem #34682b solid";
+                document.getElementById(`${title}`).style.color = "#000";
+                document.getElementById(`${title}`).style.backgroundColor = "#FFFFFF";
+                window.location.href = "#";
+            }
+
+            var eventsListItem = document.createElement('div');
+            eventsListItem.className = "event-item";
+            eventsListItem.id = `${title}`;
+            eventsListItem.innerHTML = `
+
+  <h3>${title}</h3>
+  <p class="event-description">${description}
+
+    <br>
+      <a class="mt-3" href="${layer.feature.properties.url}" target="_blank">Visit ${title}</a>
+    </p>`;
+            eventsList.appendChild(eventsListItem);
+        });
+    })
+    .addTo(map);
+
+{% else %}
+
+var exp = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/gi;
+var regexp = new RegExp(exp);
+
+var eventsList = document.querySelector('.event-list')
+
+var map = L.map('map').setView([41.3282, 19.8158], 14.3);
+L.tileLayer.provider('CartoDB.Positron').addTo(map);
+
+var GreenIcon = L.icon({
+  {% if page.map=="tirana" %}
+    iconUrl: '/assets/img/map-icon-tirana.svg',
+    iconRetinaUrl: '/assets/img/map-icon-tirana.svg',
+  {% elsif page.map=="pristina" %}
+    iconUrl: '/assets/img/map-icon-pristina.svg',
+    iconRetinaUrl: '/assets/img/map-icon-pristina.svg',
+  {% endif %}
+    iconSize: [28, 28]
+});
+
+var eventsLayer = omnivore.geojson('/geodata/{{page.map-level}}/{{page.map}}.geojson')
+    .on('ready', function() {
+        map.fitBounds(eventsLayer.getBounds());
+
+        // After the 'ready' event fires, the GeoJSON contents are accessible
+        // and you can iterate through layers to bind custom popups.
+        eventsLayer.eachLayer(function(layer) {
+            // See the `.bindPopup` documentation for full details. This
+            // dataset has a property called `name`: your dataset might not,
+            // so inspect it and customize to taste.
+            if (layer instanceof L.Marker) {
+                layer.setIcon(GreenIcon);
+            }
+
+            var title = layer.feature.properties.name;
+            var description = layer.feature.properties.description;
+            var image = layer.feature.properties.image;
+            var large = layer.feature.properties.large;
+            var linked = layer.feature.properties.linked;
+            var exists = layer.feature.properties.exists;
+            var link = linked.match(regexp) ? linked.match(regexp)[0] : undefined;
+            linked = linked.replace(link, '');
+
+            if (linked === '' && link !== undefined) {
+                description = 'Link';
+            }
+
+            var eventListItemContent = '';
+
+            if (image) {
+                eventListItemContent = `
+
+    <h3>${title}</h3>
+    <p class="mt-3">
+      <a href="${large}">
+        <img src=${image} width="300px"/>
+      </a>
+    </p>`;
+            } else {
+                eventListItemContent = `
+
+    <h3>${title}</h3>
+    <div>`;
+            }
+
+            layer.bindPopup(eventListItemContent);
+
+            layer.on('click', onPinClick);
+
+            function onPinClick(e) {
+
+              {% if page.map-level=="city" and page.map=="tirana" %}
+                const eventslist = document.querySelectorAll(".event-item-tirana");
+              {% elsif page.map-level=="city" and page.map=="pristina" %}
+                const eventslist = document.querySelectorAll(".event-item-pristina");
+              {% else %}
+                const eventslist = document.querySelectorAll(".event-item");
+              {% endif %}
+                eventslist.forEach(element => {
+              {% if page.map=="pristina" or page.map=="tirana" %}
+                    element.style.border = "0.05rem #000 solid";
+              {% endif %}
+                    element.style.color = "#000";
+                });
+              {% if page.map=="tirana" %}
+                document.getElementById(`${title}`).style.border = "0.25rem #b18d21  solid";
+              {% elsif page.map=="pristina" %}
+                document.getElementById(`${title}`).style.border = "0.25rem #0876a4  solid";
+              {% endif %}
+                document.getElementById(`${title}`).style.color = "#24625C";
+                window.location.href = `#${title}`;
+            }
+
+            map.on('click', onOutClick);
+
+            function onOutClick(e) {
+                document.getElementById(`${title}`).style.border = "0.15rem #34682b solid";
+                document.getElementById(`${title}`).style.color = "#000";
+                document.getElementById(`${title}`).style.backgroundColor = "##FFFFFF";
+                window.location.href = "#";
+            }
+
+            var eventsListItemContent = '';
+
+            if (link && exists == "no") {
+                eventsListItemContent = `
+
+      <h3>${title}
+
+        <span class="existance">Demolished</span>
+      </h3>
+      <p class="event-description">${description}
+
+        <br>
+          <a class="mt-3" href="${link}" target="_blank">${linked}</a>
+        </p>`;
+            } else if (link && (exists == "yes" || exists == "")) {
+                eventsListItemContent = `
+
+        <h3>${title}</h3>
+        <p class="event-description">${description}
+
+          <br>
+            <a class="mt-3" href="${link}" target="_blank">${linked}</a>
+          </p>`;
+            } else if (description) {
+                eventsListItemContent = `
+
+          <h3>${title}</h3>
+          <p class="event-description">${description}</p>`;
+            } else if (image) {
+                eventsListItemContent = `
+
+          <h3>${title}</h3>`;
+            } else {
+                eventsListItemContent = `
+
+          <h3>${title}</h3>`;
+            }
+
+            var eventsListItem = document.createElement('div');
+              {% if page.map-level=="city" and page.map=="tirana" %}
+                eventsListItem.className = "event-item-tirana";
+              {% elsif page.map-level=="city" and page.map=="pristina" %}
+                eventsListItem.className = "event-item-pristina";
+              {% else %}
+                eventsListItem.className = "event-item";
+              {% endif %}
+            eventsListItem.id = `${title}`;
+            eventsListItem.innerHTML = eventsListItemContent;
+            eventsList.appendChild(eventsListItem);
+        });
+    })
+    .addTo(map);
+
+{% endif %}
+var CartoDB= L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/{variant}/{z}/{x}/{y}{r}.png', {
+attribution: '{attribution.OpenStreetMap} &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+subdomains: 'abcd',
+minZoom: 0,
+maxZoom: 21,
+variant: 'light_all'
+});
+
+var mq = window.matchMedia('screen and (max-width: 1080px) and (min-resolution: 3dppx), screen and (max-width: 960px)');
+if(mq.matches) {
+console.log('small device => map zoomable now');
+} else {
+// disable scroll zoom
+map.scrollWheelZoom.disable();
+}
+</script>
+
+<script>
+    addBackToTop({
+      diameter: 52,
+      backgroundColor: '#34682b',
+      textColor: '#fff'
+    })
+</script>
+
+{% if page.map-level=="city" and page.map=="tirana" %}
+<style>
+.leaflet-popup-content-wrapper {
+  border: 0.3rem #b18d21 solid;
+}
+.event-description a, .info-container a {
+  color: #b18d21;
+}
+.existance {
+  color: #b18d21;
+}
+</style>
+{% elsif page.map-level=="city" and page.map=="pristina" %}
+<style>
+.leaflet-popup-content-wrapper {
+  border: 0.3rem #0876a4 solid;
+}
+.event-description a, .info-container a {
+  color: #0876a4;
+}
+.existance {
+  color: #0876a4;
+}
+</style>
+{% else %}
+{% endif %}
+
+{{ content }}

@@ -1,0 +1,155 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Rubik', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+}
+h6{
+  font-size: 28px;
+  font-weight: 500;
+}
+h3 {
+    font-weight: 500;
+}
+h1, h2, h3, p, h6 {
+  margin: 0;
+}
+.map-container {
+  flex: 2;
+  border: 0.35rem solid #34682b;
+}
+.map-container-tirana {
+  flex: 2;
+  border: 0.35rem solid #b18d21;
+}
+.map-container-pristina {
+  flex: 2;
+  border: 0.35rem solid #0876a4;
+}
+#map {
+  height: 100%;
+  width: 100%;
+}
+.logo {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mt-3 {
+  margin-top: 0.5rem !important;
+}
+.existance {
+  float: right;
+  font-style: italic;
+  font-size: 0.8rem;
+  color: #e03131;
+}
+.leaflet-popup-content-wrapper {
+  border: 0.3rem #34682b solid;
+  border-radius: 0;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+  margin: 0.5rem;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content p {
+  margin: 0;
+}
+.leaflet-popup-content .event-description {
+    display: none;
+}
+.leaflet-popup-tip-container {
+  display: none;
+}
+.leaflet-popup-close-button {
+  color: #34682b !important;
+}
+.leaflet-popup-close-button:hover {
+  opacity: 0.5;
+}
+.info-container {
+  flex: 1;
+  padding: 1rem;
+  max-height: 100%;
+  overflow-y: scroll;
+  font-size: 0.9rem;
+  padding-bottom: 20px;
+}
+.description {
+  padding-bottom: 25px;
+}
+.event-item
+ {
+  border: 0.15rem #34682B solid;
+  padding: 0.5rem;
+  margin: 0.3rem 0;
+}
+.event-item-tirana
+ {
+  border: 0.15rem #B18D21 solid;
+  padding: 0.5rem;
+  margin: 0.3rem 0;
+}
+.event-item-pristina
+ {
+  border: 0.15rem #0876a4 solid;
+  padding: 0.5rem;
+  margin: 0.3rem 0;
+}
+.event-item > .event-description {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+.event-description a, .info-container a {
+  display: inline-block;
+  font-weight: 500;
+  text-decoration: none;
+  color: #34682B;
+}
+a:hover {
+ color: grey;
+}
+.event-description a:hover {
+  background-color: white;
+  color: #767676;
+}
+.footer {
+  font-size: 0.7rem;
+  margin: 0.5rem 0;
+}
+
+@media screen and (max-width: 1080px) and (min-resolution: 3dppx), screen and (max-width: 960px) {
+  body {
+    flex-wrap: wrap;
+    height: auto;
+  }
+  body > * {
+    flex: 1 1 100% !important;
+    width: 100%;
+  }
+  .map-container {
+    height: 50vh;
+  }
+  .map-container-tirana {
+    height: 50vh;
+  }
+  .map-container-pristina {
+      height: 50vh;
+  }
+}
+.activeProperty  p a, .activeProperty  a{
+  color: #ffffff;
+}
+
+  @media screen and (max-width: 760px){
+    .title{
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+  }

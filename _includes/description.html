@@ -1,0 +1,60 @@
+    <div class="description">
+
+      <!-- Define icon condition here -->
+      {% if page.map-level=="region" %}
+      <img class="logo" style="float: left;padding-right: 15px;padding-top: 2%;" src="/assets/img/wb_icon.svg">
+
+      {% elsif page.map-level=="city" %}
+      <img class="logo" style="float: left;padding-right: 15px;padding-top: 2%;" src="/assets/img/Logo_{{page.map | capitalize}}_Icon.svg">
+
+
+      {% endif %}
+      <!-- Define icon condition here -->
+
+      <!-- Define title condition here -->
+      {% if page.map-level=="region" %}
+      <div class="title">
+      <center><h6 style="font-size: 150%;">PreservingWesternBalkans</h6></center>
+      </div>
+      {% elsif page.map=="tirana" %}
+      <div class="title">
+      <center><h6 style="font-size: 150%;">PreservingTirana</h6></center>
+      </div>
+      {% elsif page.map=="pristina" %}
+      <div class="title">
+      <center><h6 style="font-size: 150%;">PreservingPristina</h6></center>
+      </div>
+      {% elsif page.map-level=="country" or page.map-level=="city" %}
+      <div class="title">
+      <center><h6 style="font-size: 150%;">PreservingWesternBalkans - {{page.map | capitalize}}</h6><a href="/" target="_self"><p style="font-size: 100%;color: #34682b;padding-bottom:5%">Go back to PreservingWesternBalkans</p></a></center>
+      </div>
+
+      {% endif %}
+      <!-- Define title condition here -->
+
+      <!-- Define description condition here -->
+      {% if page.map-level=="region" %}
+      <p>Common, open source architecture platform, that aims to document the most valuable but neglected and endangered buildings of the Western Balkan cities.</p><br>
+      <p style="padding-top: 4%;">Read about the background of this project in the following link:<a href="/about" target="_blank" rel="noopener">About the project</a></p>
+      <p>Find all the photos on the platform: <a href="https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Tirana" target="_blank" rel="noopener">Wikimedia commons</a></p>
+      <p>Read about the license: <a href="/license" rel="noopener" target="_blank">Project license</a></p>
+      <p style="margin-bottom: -5%;">To contribute to the project: <a href="/contributing" rel="noopener" target="_blank">Contribution guide</a></p>
+
+      {% elsif page.map-level=="country" %}
+      <p>Common, open source architecture platform, that aims to document the most valuable but neglected and endangered buildings of the Western Balkan cities.</p><br>
+      <p style="padding-top: 4%;">Read about the background of this project in the following link:<a href="/about" target="_blank" rel="noopener">About the project</a></p>
+      <p>Find all the photos on the platform: <a href="https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Tirana" target="_blank" rel="noopener">Wikimedia commons</a></p>
+      <p>Read about the license: <a href="/license" rel="noopener" target="_blank">Project license</a></p>
+      <p style="margin-bottom: -5%;">To contribute to the project: <a href="/contributing" rel="noopener" target="_blank">Contribution guide</a></p>
+
+      {% elsif page.map=="tirana" %}
+            <p>Common, open source architecture platform, that aims to document the most valuable but neglected and endangered buildings of Tirana.</p><br>
+            <p>Find all the photos on the platform: <a href="https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Tirana" target="_blank" rel="noopener">Wikimedia commons</a></p>
+            <p>Go back to <a href="/" target="_self">PreservingWesternBalkans</a></p>
+      {% elsif page.map=="pristina" %}
+            <p>Common, open source architecture platform, that aims to document the most valuable but neglected and endangered buildings of Pristina.</p><br>
+            <p>Find all the photos on the platform: <a href="https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Pristina" target="_blank" rel="noopener">Wikimedia commons</a></p>
+            <p>Go back to <a href="/" target="_self">PreservingWesternBalkans</a></p>
+      {% endif %}
+      <!-- Define description condition here -->
+    </div>
