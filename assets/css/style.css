@@ -51,6 +51,13 @@ h1, h2, h3, p, h6 {
 .title{
   padding-bottom: 2%;
 }
+.event-list h3 {
+    font-weight: 500;
+    padding-bottom: 2%;
+}
+.event-list p {
+    font-weight: lighter;
+}
 .mt-3 {
   margin-top: 0.5rem !important;
 }
