@@ -41,6 +41,15 @@ h1, h2, h3, p, h6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float: left;
+  /* top | right | bottom | left */
+  padding: 0 2% 2% 0;
+}
+.event-list{
+  padding-top: 5%;
+}
+.title{
+  padding-bottom: 2%;
 }
 .mt-3 {
   margin-top: 0.5rem !important;
