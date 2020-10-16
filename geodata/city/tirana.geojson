@@ -1049,7 +1049,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.83251 ,
+          19.83251,
           41.31723
         ]
       }
@@ -1067,13 +1067,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.81960 ,
+          19.81960,
           41.33006
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Hasan-Reshat Petrela",
+        "description": "Perfaqeson nje banese popullore, qytetare tiranase, e ndodhur ne Rrugen e Barrikadave. Eshte Monument i kategorise se I, i shpallur ne 1980. Banesa ka planimetri drejtëkëndëshë dhe ngrihet në dy kate, nuk perben tipologjine me 'shtepi zjarri' rrotull se ciles zhvilloheshin te gjithe ambjentet kryesore, dhe qe eshte dhe tipike e kesaj zone. Kati i parë ka funksionuar si ahur ku depozitoheshin ziametet e shtëpisë. Kati i dytë, që ishte dhe ambjenti kryesor jetesor, është më i lartë dhe përmban element dekorativ, si punimet e drurit ne tavane e dyer ashtu dhe në fashaturat dekorative te dritareve. Si pasojë e ndryshimeve ne vitet '30 shtëpia e ka humbur pamjen fillestare. Ndryshimet vihen re te dritaret, të cilat janë zmadhuar, dhe krijimi i një ballkoni me kangjella hekuri në mesin e fasadës.",
+        "linked": "More photos of the house\n ",
+        "image": "/Buildings/tirana/ ",
+        "large": "/Buildings/tirana/",
+        "exists": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81948,
+          41.33209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House Farka",
+        "description": "Sot eshte e abandonuar, dikur i perkiste Hlil Mustafa Farkes. Sot e trasheguar nga dy vellezer te fa,iljes Farka. Eshte nje shtepi tradicionale me tulla qerpici dhe breza antisizmik druri.",
+        "linked": "More photos of the house\n ",
+        "image": "/Buildings/tirana/ ",
+        "large": "/Buildings/tirana/",
+        "exists": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81233,
+          41.329454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 1 on ‘Tefta Tashko Koco’ Street",
+        "description": "Kjo shtëpi tradicionale u listua si Monument i kategorisë së parë në dhjetor të 1987 dhe një nga përfaqësueset e shtëpisë tradicionale të Tiranës. Shtëpia tradicionale e Tiranës, zë një pozicion të veçantë në arkitekturën e shtëpive urbane shqiptare. Muret e kësaj shtëpie janë në gjerësi nga 60 deri në 70 cm. Muratura përbëhet nga tullat e qerpiçit të lidhura me llaç balte të përzier me kashtë. Çdo fragment prej 1 m prej murature me tulla qerpiçi, është e lidhur me breza druri me një funksion antisizmik. Ndërtimi i këtyre shtëpive me tulla qerpiçi, është tipike për Shqipërinë e mesme dhe u lejua si një lloj ndërtimi në Tiranë deri rreth vitit 1923. Muri i fasadës së dhomës së miqve në katin e sipërm, është bërë përmes një teknike tradicionale e të hershme ndërtimi, strukturë mjaft e lehtë e përbërë nga ristela prej druri të ngopura me shtresa suvaje, e njohur si  ’çatma ’. Besohet se i përket një prej familjeve më të rëndësishme të kohës për qytetin, familjes 'Toptani ’, më saktë sot një nga pronarët Maliq Toptani dhe mendohet të ketë qenë shtëpia e Abedin Toptanit. Qëndronte e ndarë mes dy familjeve, duke pasur dy hyrje kryesore dhe deri vonë  kati përdhe i njërës prej gjysmave të shtëpisë, ka kaluar nëpër disa rikonstruksione dhe ndryshime nga gjendja e saj origjinale. Kjo banesë edhe pse me status monument, u shëmb rishtazi.",
+        "linked": "More photos of the house\n ",
+        "image": "/Buildings/tirana/ ",
+        "large": "/Buildings/tirana/",
+        "exists": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.827506,
+          41.329048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa on ‘Papa Gjon Pali II’ Street",
+        "description": "Statusi i mbrojtjes: KATEGORIA II\nDatimi: SHEK.XX\nKjo vilë bën pjesë në zonën e projektuar si 'Qyteti Kopësht', me një tendencë të qartë drejt arkitekturës racionaliste në bazë të projektit të ark. Brasinit, po edhe me influencë të shkollës Bauhaus. Në pjesën ballore të vilës, me dalje në rrugën kryesore ndodhet porta hyrëse për në banesë, kurse në anën tjetër ndodhet porta që kalon në pjesën e pasme.",
+        "linked": "More photos of the villa\n ",
+        "image": "/Buildings/tirana/ ",
+        "large": "/Buildings/tirana/",
+        "exists": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.822603,
+          41.323134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spitali i Tiranes",
+        "description": "'Spitali i Tiranes' qe me vone mori emrin 'Spitali i Shtetit' ndodhej ne vendin qe ne ate kohe ndodhej 'Hani i Esat Pashes', ngjitur me Kullen e Sahatit. U ngarkua si pergjegjes i tij mjeku Osman Jonuzi, i cili ne te njejten kohe ishte dhe shefi i kirurgjise. Ne 1920 Kryqi i kuq Amerikan i kerkoi shtetit shqiptar  te mbante Spitalin me shpenzimet e veta. Kjo ndertese ka qene nder me te vjetrat ne Tirane dhe kur u realizua Spitali i ri ne 1932 , ajo vete u shnderrua ne Hotel. ne 1948 u dogj nga Sigurimi i Shtetit dhe me vone u rrafshua totalisht. Ne kete vendoshje sot ekziston plani per realizimin e nje kompleksi ndertimor me  tre kulla, ekzaktsisht midis Kulles se sahatit dhe  Nderteses se Kaceleve.",
+        "linked": "More photos of the building\n ",
+        "image": "/Buildings/tirana/ ",
+        "large": "/Buildings/tirana/",
+        "exists": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.82016,
+          41.32763,
+        ]
+      }
     }
-
-
-
+    
   ]
 }
