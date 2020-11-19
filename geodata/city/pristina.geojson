@@ -4,38 +4,612 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Media-house Building 'Rilindja'",
-        "description": "The former Media-house 'Rilindja', located in the city center, on 'Luan Haradinaj' street, was realized by a group of engineers and architects, led by the well-known Macedonian architect Georgi Kostantinovski (a student of the American architect Paul Rudolph, in Yale University and intern at the IM Pei studio). It was designed in 1971, since the 70s were important and very productive years for the city's architecture and Urbanistic development, as part of Socialist Yugoslavia, after Kosovo's political autonomy in 1963. Its construction began in 1972 and because of some financial and political problems, ended only in 1978. It represents one of the most unique buildings of the region in the category of Brutalist architecture influenced by the American brutalist architecture of masters like Paul Rudolf and his building design in Boston, as the main architect says about his source of inspiration for it. The building is made out of two volumes, an 18-floor tower of 17 340m2 and 'The printing Hall' made out of two floors with a total of 28 345m2 surface and a typical industrial volume. This unit is made out of a space defined by 1mx1m wide columns, repeated each 10m distance.The building contains both architecture and historical value since first of all the facade of the tower is very rich in detail and the way it is treated technically, where all the utility tubes infrastructure pass through the inner space of the triangles on its facade, making it both aesthetic and functional. This was quite an innovative solution at the time. Also, the brutalist aesthetic of the facade elements is made out of color in white concrete. Also, the building has historical value because it was intentionally build to host the first written Albanian media during Socialist Yugoslavia, therefore was considered a 'nest' of intellectuals of the time. In November 2008 the 'Rilindja' organization stopped its activity and this was the period also where the building's architecture started to be altered, like interventions on the tower facade with the cladding, covering the honesty and simplicity of the white concrete structural elements and decorative elements, and somehow losing a part of history. After 2008 it was home to the 'Ministry of Public Services' and the 'Printing Hall', has been abandoned for long and used through the years informally, hosting restaurants, radio and TV stations, gyms, etc and partially abandoned but still remains with characteristics closer to its original state.",
-        "linked": "More photos of the Building\nhttps://commons.wikimedia.org/wiki/Category:%27Rilindja%27_Media-house_Building",
-        "image": "/Buildings/tirana/small/Villa_on_Rruga_Dervish_Hatixhe_small.jpg",
-        "large": "/Buildings/tirana/Villa_on_Rruga_Dervish_Hatixhe.jpg",
+        "name": "Clock Tower",
+        "description": "Clock towers were important structures of the urban centers of cities with Ottoman influence. They were built near the bazaars and in this way it helped the merchants to know the exact time when they opened and closed the shop. In parallel, being a tall structure and identifiable point in the city, helped foreign traders to find the location of the bazaar easier where they would trade goods. The clock tower of Pristina was built at the end of the XIX century by Jashar Pasha, after whom is named the mosque, not so far from here. It is located in the urban ensemble of the old town along with the large hammam and the King Mosque. The clock tower has a hexagonal base with a height of 26m. Up to 16.5 m it is made of stone while the rest up to the roof is made of brick, with small arched openings on all six sides. The roof is made of wooden construction and covered with lead. Inside the tower there are circular stairs made of stone (slabs) to the brick part, from where on the stairs continue to be made of wood, an element that indicates that this part was (re) built later. Until 2001, when the theft of the artifact took place, there existed the original bell (functional until the 70s) with the inscription of 1764, as the date of production, brought from Moldavia. Today, the clock tower is a listed and protected monument. Unfortunately it is not open to visitors and as such is abandoned and only adored from outside.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Clock_Tower_in_Pristina",
+        "image": "/Buildings/pristina/Clock_Tower_,_Prishtina,_Kosovo_1.jpg",
         "exists": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.15593,
-	  42.65952
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1662572,
+       42.666692
         ]
       }
     },
-     {
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Great Hamam",
+        "description": "The Great Hammam is thought to date back to the 15th century. It was once part of the Sultan Murat Fatih Mosque complex and according to a legend, the builders of the Mosque were ordered by Sultan Mehmet II to bathe daily in the hammam. The structure which is still found today belongs to the typology of double hammams, where both genders use it at the same time. The hammam consists of 16 domes (in some sources 18 domes) covered with lead and with small openings to allow light to penetrate. The monograph of Pristina mentions the role that the spaces of the hammam have played in the social and entertaining aspect of the citizens of Pristina, especially the women at a time when her outgoing and entertainment in public space was not practical. In the memory of this generation the hammam was a space of meetings and entertainment, where the bride was prepared on the wedding day, where mothers chose brides for their sons and where the parties were held, until the 60s when it was abandoned and used as a warehouse. A fire that broke out in 1994 resulted in the illegal opening of three shops that blocked the old entrance. In 2006 restoration of the large hammam took place, an intervention that lasted until 2013 when the work was stopped due to unprofessional interventions. Today the hammam has completely lost its originality on the east and south face, losing the main distinguishing features for this typology. The buildings erected on the perimeter of the monument, especially those in the northern and western part of the building, have suffocated the building by not allowing the luminescence of this monument.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Prishtina_great_Hammam",
+        "image": "/Buildings/pristina/The_Great_Hamam_of_Prishtina_03.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.166049,
+       42.6669463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Ibrahim Nakije Glloboderi",
+        "description": "Ibrahim Glloboderi's house is located on Meto Bajraktari Street, near the building of the Municipality of Pristina, built around 1800. Nowadays the house serves as an international restaurant. Unfortunately the spaces inside have undergone many changes compared to the authentic version in order to accommodate the new function of the restaurant. Moreover, the facade and interior spaces have been painted in white and blue to create the Greek theme of the restaurant. Some of the authentic interior elements such as niches and upper shelves for storing dishes are still present.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Ibrahim_Nakije_Glloboderi",
+        "image": "/Buildings/pristina/House_of_Ibrahim_Nakije_Glloboderi_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        21.163580,
+        42.666816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Emin Gjiku' Complex",
+        "description": "The synagogue or as it appears in some sources the Jewish warehouse, was part of the Pristina bazaar, and the only structure left by this trading ensemble. According to interviews with people who remember that time, in the book Monography of Pristina by S. Gashi, the synagogue was positioned where today is the back entrance of the Kosovo Parliament building. In 1960 the synagogue was relocated, dismantled piece by piece, to be reconstructed at the city's ethnographic museum complex, where it is still located today. Based on the information poster in front of the museum this was a one-story building, built of stone and covered with a stone roof, once a blacksmith shop. Until a few years ago it was used as a center of contemporary art but today it out of usage. The Ethnographic Museum or as it is also known the house of Emin Gjiku marks a frequent architectural layer of residential buildings of the 18th and 19th century in the cities of Kosovo. It is the most representative example of this category, at the same time the most advanced typology of vernacular adobe houses. It is understood that there are influences and elements of Ottoman architecture but with expressions and creativity of local craftsmen. Emin Gjiku house is a typical example of family houses in a high social position, as is the case of the Gjinolli family. The size, decorations and number of openings have shown the position of the family in society in economic, cultural and social terms. They had large courtyards with accompanying functions, surrounded by high walls, 55 cm thick, built of clay bricks and wooden beams due to the privacy and protection of female morality. The ensemble consists of 2 large courtyards, the entrance courtyard with the guest house on its right side and the Jewish depot (synagogue) on the left side, and the inner courtyard, with the family house (haremlik) and the guest house (selamlik ). Both houses are two-storey buildings, where the first floor is built with stone foundation up to a certain height from the ground, then with earth bricks reinforced with horizontal wooden elements, while the upper floor consists of wooden skeleton construction (bondruk system) filled with adobe bricks. It is worth noting that these buildings are very cleverly designed utilizing solar energy and controlling it at the same time, with every element well thought out for specific reasons. For example. the south-facing porch eave is extended in order to protect the space from overheating during the summer and allowing the sun when at a low angle during the winter. What characterizes the interior of these houses is the warmth created by the use of wood in the decoration of ceilings and cupboards, they are well-lit spaces and with attention to the human scale. Living spaces have been multifunctional in which the family has performed all the functions of living, eating, sleeping and living in the same space. The room is also a space where dishes, mattresses and daily cleaning space (guzelhanen) were stored. Due to its characteristic architectural typology, aesthetic, historical and educational value, the ensemble was listed under state protection in 1964. Until 1990, the Emin Gjiku complex served as a Natural Museum and then in 2003 turned into an Ethnological Museum housing a wide collection of ethnographic elements used in the daily life of the Albanian society of that time. It has been rated by 'The Guardian' as one of the 12 Best Museums in Europe.  The last restoration started in 2017 and a fund of 30 thousand Euros has been allocated for it. But this fund is completely insufficient for the restoration project, which is approved by the Kosovo Institute for the Protection of Monuments. During the last two months of 2017 the walls of the building were bare to the skeleton. The floor is completely removed and the building is supported by only a few wooden pillars. The adobe infill has also been removed from the interior walls. Some interventions have been made on the roof, where the tiles have been removed and sheets have been placed to prevent rainfall. Even on the last visit in October 2020, the building is still in the process of restoration, still naked to the construction, where inside the fence is only its skeleton. The mortar was removed from the outer walls up to the birch part. At the moment the works are suspended and the museum is partially open to visitors.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Emin_Gjiku_Complex",
+        "image": "/Buildings/pristina/Emin_Gjiku_Complex_23.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.16820,
+       42.66866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " The first Albanian school in Pristina",
+        "description": "The building of the first Albanian school is located in the western part of the historic center of Pristina, in the triangle that is formed from the 'Trepca' and 'Ilir Konushevci' streets. The two-story building was built in the second half of the XIX century by Abdurrahman Pasha, an Albanian from Pristina. In 1880 the building was burned down and later it was rebuilt by the sons of Abdurrahman Pasha. In 1908, this building opened a gymnasium with 250 Albanian students. After World War II it was once used as a military garrison of the former Yugoslavia. This building has been used as a residence by some families, for some time. The building has an approximate square layout, characteristic of the time in which it was built because it is detached from the architectural shaping features as well as from the architectural typology of the buildings of the time. The ground floor has a surface of 290 m² and together with the first floor reaches a surface of about 580 m², not counting the basement area, which is not accessible but is assumed to be there based on the southwest facade photo. The walls of the building are made of plaster-coated stones and bricks, that have been degraded over time. The mid-floor construction is made of wood and filled with clay mortar. Traces on the northeast façade show that the windows have undergone a change from their initial condition. The original openings are preserved on the southwest facade. There are traces on the façade showing that the windows have been used with a repeated pace and rhythm.Today the building is abandoned and in a very deteriorated condition, surrounded by protective fences to safeguard the citizens who cross beside it.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:The_first_Albanian_school_in_Pristina",
+        "image": "/Buildings/pristina/The_first_Albanian_school_in_Pristina_04.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1644585,
+       42.6672334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Power Transformer",
+        "description": "The power substation was built in the XX century. It is a building functioning under the substation as an integral part of the electricity generation, transmission, and distribution system. This power substation is located in the historic center of Pristina, in the 'Tophane' neighborhood, along 'UCK' street, it's listed under provisional preservation, in 2015. The building belongs to the period of modernity and its walls are made of full clay bricks with exterior projecting angles of 5 cm. The electrical substation is covered with a roof made of four units, each unit representing a roof made out of two side-walls. This unusual unit-roof separates from the bottom part by a horizontal belt, in a simplified decorative frieze, two of these walls have three small openings.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Power_Transformer_Pristina",
+        "image": "/Buildings/pristina/Power_Transformer_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1643931,
+       42.6677233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Luan Rudi'",
+        "description": "The house belongs to the XVIII century, the Ottoman period. It is under provisional preservation, listed in 2014-2015. Luan Rudi's house is located in 'Tringë Smajli' street in the center of Pristina. The original function was residential, but over time the ground floor has become a commercial space while the first floor is still used for residential purposes. The building is a typical example of two-story city-house type with a closed 'cardak' (open space of the upper floor in traditional Albanian houses, functioning as a summer living-room), a street-facing 'erker', 70cm and 30cm thick walls made of adobe bricks. The floor structure is made of timber covered with planks, while vertical communication is made through a wooden staircase. The house has a four slopes roof, built of timber, and covered with tiles. The interior is characterized by wall-closets(cabinets) with two wooden wings and wood-paneled ceilings with a fractured side frame on four sides and a rosette in the center. The house has survived thanks to its last owner's commitment (Rudi family), though in the poor physical condition and with several changes in its appearance and function. Considering the damage to the building and especially its roof, with the financial means from MKRS(Ministry of Culture, Youth and Sports) and with the engagement of Pristina QRTK, in December 2012 the damaged roof beams were replaced with new beams and the roof was re-covered with tiles. The interventionon the house has been taken as an emergency step to protect the building until funding is provided for its complete conservation. Referring to its typology and position, this house besides architectural values ",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Luan_Rudi",
+        "image": "/Buildings/pristina/House_of_Luan_Rudi_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.164393,
+       42.661882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Hyjniler family",
+        "description": "The House of the 'Hyjniler' family, belongs to the type of city-houses built during the end of the XVIII century and the beginning of the XX. The central part of the house is the interconnecting space known as 'divanhanja' which is accessible from the ground floor through a semi-circular wooden staircase. The 'divanhane' is organized in the visible corner section of the main façade. From the interconnecting space, you enter through all the other rectangular-shaped rooms. The building is organized on two floors, ground floor and the first one defined by adobe brick walls and wooden construction. The main part of the facade on the horizontal line features wooden windows, which give abundant illumination to all its interior spaces. The four-sloped roof is covered with traditional rounded tiles. The rooms are rich in ceilings decorations, cupboards, and 'hamamxhike' with wooden decorations. This house represents a special kind of Balkan civic architecture.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Hyniler_family",
+        "image": "/Buildings/pristina/House_of_Hyniler_Family_03.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1706045,
+       42.6660172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Imer Mehmetaj",
+        "description": "The house which is located under the name of Imer Mehmetaj is located in Ismail Dumoshi street near the house of the family of the Gods. The building has elements very similar to the house of Kurtesh Sulejmani built in the XIX century, so it is likely that this building dates from the same time. Such a theory is also supported by the bondruk construction system consisting of a skeletal wooden structure filled with adobe bricks, which can be clearly seen from the discovery of the façade. It is a two-storey building, with the first floor protruding above the ground floor. The ground floor is visually impermeable due to only a minimal opening while the first floor has wide windows on the street facade. In its current state, the monument is abandoned and severely deteriorated. During visual observation, the house appears in a severely damaged condition with loss of architectural elements, loss of cladding material and discovery of construction, which due to atmospheric exposure may result in loss of structural integrity. Also, the building is surrounded by new megalomaniac dwellings, choked and sunk, disrespecting the perimeter of the monument.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Imer_Mehmetaj",
+        "image": "/Buildings/pristina/House_of_Imer_Mehmetaj_09.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.171485,
+       42.666056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residential building 'Etnoteatri'",
+        "description": "This residential complex was built at the end of the XIX century and consists of the following buildings: Residential House P+K - Residential House P+0 - Plemja. The buildings are organized around a longitudinal axis on one side or the other. The houses have the entrance oriented along the longitudinal axis in the opposite direction, while the fertilizer(???) has the entrance oriented in the normal direction with the axis. The P + K house in the village of Kukaj belongs to the type of open porch apartment buildings that were built during the XVIII-XIX centuries. The P + K house was built in the century. XIX, within the residential complex of the Hysaj family, in a rural setting, and consequently belongs to the type of Kosovo rural housing construction. The house is built on a sloping ground where the rear facade is ground-floor, while the front facade in the basement is half a floor. The ground floor of the building is made of carved stone with limestone mortar and the basement floor with basement system. The roof construction is of timber, foursquare, covered with clay tiles. During the emergency intervention of 2012, respecting the original shape of the roof, a new roof structure with pine wood and reused material was installed. The chimney was built, the staircase leading to the chalet and the chalet floor were rebuilt. There are also new wooden doors and windows on the floor. House P + 0 is made of limestone-bound stones. The base dimensions are 7.60 m x 5.15 m. At the front there is a 1.20 m wide porch covered with a roof. The roof is foursquare, covered with new tiles similar to traditional Roma. P + 1 feather built in the century. XIX for family needs for food storage. The grove is inside the residential complex. The ground floor made of stone has served as a cots, while the floor, where the animal feed is stored, is made of rooftops. It has a roof wall coverings with traditional Roma tiles. This residential complex has been turned into a theater, and part of the courtyard has been transformed into an open-air amphitheater, where the 'Ethnofest' is held, a cultural and artistic event whose aim is through theatrical performances, figurative exhibitions and ethno-performances with archaic and contemporary character to discover and rejuvenate the ethnocultural values",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Residential_building_%27Etnoteatri%27",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.2488514,
+       42.6533922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Gezim Konjusha",
+        "description": "The residential house in the name of Gëzim Konjusha is located in front of the buil2ding of IKMM - Kosovo Institute for the Protection of Monuments and Elena Gjika school. According to sources it dates from the 19th century.The building is closed, abandoned and covered with thorns. Not much can be understood from the outside about the architecture or physical condition of this building because it is surrounded on all sides by high-rise, newly built dwellings. Also the east side, along the entire perimeter of the ground floor is covered with shops.The few elements that can be observed is the presence of a volume coming out in the southern part, which seems to be a closed qoshk type. The building appears to be in moderately good condition, with damage and loss of material to the roof shelter.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Gezim_Konjufsha",
+        "image": "/Buildings/pristina/House_of_Gezim_Konjusha_04.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1688407,
+       42.6653587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Brahim Brahimi",
+        "description": "The house listed under the name Brahim Brahimi is located on Meto Bajraktari Street, near the old building of the Municipality of Pristina. It dates from the 19th century and belongs to the type of vernacular houses with open qoshk. It is a two-storey house with a typical volume of the typology it belongs. The ground floor has fewer openings and the upper floor is visually accessible with many windows and open corners. The qoshk rises from the ground floor to four pillars, independent of the structure of the building. The open part of the qoshk also presents a series of decorated pillars and a rosette-shaped ceiling, also decorated with wood. This characteristic space has been utilized as common space, especially during the hot seasons. The size of the house, the number of openings and the decorations indicate a high economic and social level of the owner for whom this house was built.Visual observations show that during its existence, the building has undergone many alternations of materials and architectural elements. It is clear that the roof has lost its characteristic semicircular tile covering and has been replaced with an incompatible covering. Today it is closed and abandoned and the building shows considerable deterioration with loss of material and decoration, distinctive for this typology.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Brahim_Brahimi",
+        "image": "/Buildings/pristina/House_of_Brahim_Brahimi_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.163469,
+       42.666499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Shefqet Mehmeti",
+        "description": "The house listed under the name Shefqet Mehmeti is located on Meto Bajraktari Street, near the old building of the Municipality of Pristina. According to some sources, the building dates from the 20th century, but from the visible construction due to the loss of the facade, it clearly appears to be made of earthen brick (adobe) masonry and wooden skeletal construction, a construction characteristic of the houses of the 18th and 19th century. It is a two-storey house, with pure symmetry reflected in the same number of openings on both floors. Above the entrance door is what can be considered a qoshk, raised on four pillars, open and uncovered. From the loss of materials it can be seen that the existing facade is added over time because it shows new materials, which do not coincide with the construction type. Today the building shows neo-classical decorations on the window frames, corners of the building and the qoshk. The building is abandoned while the yard is used as a private parking space. The level of detachments and material losses is very high. The western wall of the building is completely open losing the filler material (adobe bricks) and exposing the skeleton construction from wood to atmospheric conditions.",
+        "linked": "More photos\n https://commons.wikimedia.org/wiki/Category:House_of_Shefqet_Mehmeti",
+        "image": "/Buildings/pristina/House_of_Shefqet_Mehmeti_08.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.163568,
+       42.666343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residential building 'Laziq'",
+        "description": "The Pristina Monography by Sanije Gashi says that the house belonged to Mile Lazic, who had previously bought it from a priest. On the ground floor was the bakery run by Abdurrahim Furrunxhi, known in the city as the 'bakery with pictures'. Based on the inscription on the crown of the building, the house was built in 1925. It is a two-storey house, with openings on both floors. The ground floor part is seen to have subsequent interventions as the building today presents large openings (front store), with new materials. The front façade on the first floor presents numerous decorations over the windows and roof borders, details with a mixture of neo-classical and baroque motifs. On the roof, on the same axis as the balcony, there is a crown shape attic wall on either side of which stand two sculptures with their hands pointed at each other. From the loss of the cladding material it is clear that the building is built of baked bricks, material typical for the time of construction (inscription of the year). Today the building is abandoned and shows considerable damage especially in the loss of cladding material and exposure of constructive material.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Residential_Building_%22Laziq%22",
+        "image": "/Buildings/pristina/Residential_Building_Laziq_06.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.164867,
+       42.666193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Kurtesh Sulejmani",
+        "description": "The Residential House listed under the name of Kurtesh Sulejmani was built in the 1880s and is located on the street, in the historic core near the Jashar Pasha Mosque and the Museum of Kosovo. Near this house one can find other houses of the same period as that of Sali (Hyrie) Shafqiu and Muharrem Sejdiu. From old photos of Pristina it can be seen that the whole order and neighborhood near this building has been inhabited with similar typology. Due to its deterioration and structural revelation from the loss of the façade, it can be seen that the house has a bondruk construction system consisting of a wooden frame structure with adobe brick filling. It is a two-storey building, with the largest first floor, preserved above the ground floor. The ground floor is visually impermeable due to the lack of openings while the first floor has generous windows placed on the street facade. In its current state, the monument has been abandoned and severely deteriorated. During the visual observation in August 2020, the house appears to be abandoned in a severely damaged condition with loss of roof covering and building elements, loss of envelope material and loss of structural integrity. It is important to mention the concern of leaving these buildings at the mercy of time and certain individuals or groups who destroy the heritage for business gain. The last remnants of the historical fabric of Pristina are completely disappearing, completely erasing an entire era of culture and residential architecture of the XVIII and XIX century. The country's institutions for the maintenance and care of the heritage, especially the architectural one are responsible but nothing can be achieved without the involvement and contribution of the community.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Kurtesh_Sulejmani",
+        "image": "/Buildings/pristina/House_of_Kurtesh_Sulejmani_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.165813,
+       42.666397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Sali Hyjrie Shafqiu",
+        "description": "The house listed under the name of Sali (Hyrie) Shafqiu was built in the 19th century and is located on Mehmet Kaçurri Street, in the historic core near the Mosque of Jashar Pasha and the Museum of Kosovo and near other houses of the same period as that of Kurtesh Sulejmani and Muharrem Sejdiu. The building is abandoned. Not much can be understood from the outside about the architecture or physical condition of this building because it is surrounded on all sides by high brick walls, part of the ensemble of the house. Due to the revelation of the structure from the loss of the facade, it can be seen that the house, like the houses of the same time, has a bondruk construction system consisting of a wooden frame structure with adobe brick filling. It is a two-storey building, with a pair of covered stairs, outside the volume of the house on the east wall, which ascend to the first floor.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Sali_Hyjrie_Shafqiu",
+        "image": "/Buildings/pristina/House_of_Sali_Hyjrie_Shafqiu_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.16523,
+       42.66641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Imer Berisha",
+        "description": "It is a vernacular house built in the second half of the 19th century. It is located in the old historical center of Pristina, near the old bazaar. From old photos of Pristina it can be seen that the whole row and neighborhood near this building wascomprised of houses of this type. Although there is very little left of the existing structure to read the architecture of the building, from old photos which we have found it appears that the house was two storeys high, with openings on both floors. On the second floor there was a closed qoshk with windows on all three sides of it. As can be seen from the remains, this monument, like most of the buildings of this period, was built of massive brick walls on the ground floor with seismic rib of wooden beams and a wooden skeleton construction with adobe fillings on the upper floors. This hypothesis can be supported by the fact that today we can only find remains of the ground floor because the first floor made of skeletal wooden structure was burned very easily, obliterating the remains of the building. In June 2013 it burned down for unknown reasons. During this period there were many 'accidental' fires of historical monuments, especially those at strategic points of the city. Hotel Unioni had the same fate. These fires have never been investigated.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Imer_Berisha",
+        "image": "/Buildings/pristina/House_of_Imer_Berisha_01.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1652217,
+       42.6666441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Fitim Gjana",
+        "description": "The building is registered as a monument under the name of Fitim Gjata. It was built in the second half of the 20th century. From remaining of the building one can understand that the building has a longitudinal stretch, with narrow faces from the street, in the row of shops of the old bazaar. According to the remains of the monument, it is clear that the building was built of baked bricks, typical of the time of construction, and had a two-story wooden roof. The facade from the street has a more detailed treatment, with a semicircular crown, with neoclassical decorations. Based on the latest monograph of Pristina (Gashi S.), this building is known as the house of Sava, of Savo Furrunxhi. The house next to it belonged to the Sava brothers. It is said to have been the former office of the Serbian Consulate that opened in 1887.Based on conversations with some citizens of the neighborhood, this space temporarily served as a Russian consulate, then Serbian and Austro-Hungarian.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Fitim_Gjata",
+        "image": "/Buildings/pristina/House_of_Fitim_Gjata_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1652217,
+       42.6666441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Musli Hoxha",
+        "description": "Musli Hoxha residential house is located in Luan Haradinaj Street, near the Family Health Center of the city. From as little as can be seen outside the defenses, it can be seen that the building has a longitudinal plan, with the main façade (narrowest part) oriented from the street. From the old photos of the building it can be seen that it was two-storey, with the first floor protruding above the ground floor one and supported by a diagonal beams, with a two-sided roof covered with traditional tiles. According to some sources, the building dates back to 1927, but from the visible construction due to the loss of the facade, it clearly appears to be made of earthen brick (adobe) masonry and wooden skeletal construction, a construction characteristic of the houses of the18th and 19th century. On the north side of the building, once stood a twentieth century building. Due to the discovery of the facade, it can be seen that in its longevity there have been interventions because today we can observe the presence of baked bricks instead of those of adobe and other materials that do not match the authentic building materials.Today this building is surrounded by physical fences on all four sides because of its risks of collapsing any day now. It has been left in this very deteriorated state and close to collapse for a while, while its yard is used as a parking lot.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Musli_Hoxha",
+        "image": "/Buildings/pristina/House_of_Musli_Hoxha_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1605502,
+       42.6640253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pristina train station",
+        "description": "The railway system in Kosovo was completed between 1874 and 1963, first connecting the cities with each other and then with the railway networks in the region. The Pristina railway station building was built in 1936, by a French / British company, after the line was extended to the city in 1934. The line on which the station is located is with a railing, standard width, but there is no turning back to the station, allowing trains to cross through a second, parallel railing, which was out of use in October 2016. The entrance to the building is easily distinguishable by the extracted volume and two-sided roof. Also the entrance gate is the symmetrical point of the building which extends horizontally to one floor rising to two floors at both ends of the building. In the courtyard part, the building has the same architectural language except for the arcade where the waiting areas are located. The existing building still has original architectural elements preserved such as the ticket office, the gate and the decorative details of the ceilings. In recent years the building has been used as night bars and as a result in the south-western part of the building, there have been incompatible interventions presenting new materials and losing the characteristic details of this building and the architectural period it belongs. During the war, many Albanians from Kosovo were deported and transported by this train to the refugee camp in Blace, where the museum is located now. This building has indisputable historical and political value for the city and Kosovo as many citizens were separated from their families and expelled from their country at this exact point.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Pristina_train_station",
+        "image": "/Buildings/pristina/Kosovo_railway_station_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.151287,
+       42.658923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gërmia Shopping Center",
+        "description": "Gërmia Department Store, as the first building of this category in the city, marks the transition from alla turka with open bazaars / bazaars, with production (craft) and sales within the same space, to alla frënga with manufactured products industrially, which were only traded in these spaces. The Germia building was designed by architect Ljiljana Raševski in 1970 and its construction lasted until 1972. It is located in the most important square in Pristina, 'Mother Teresa' square. It was known in the city because of its characteristic tectonic volume, with a characteristic wrap with steel panels, large windows and the use of escalators, as the first building to have them at the time in the country, a fact that made it most popular among the citizens of Pristina and especially their children. 'The geometric purity of the volumes that form the building, the extremely authentic structure of its facade represent unique architectural values, not only for that period of time, but also for today,' says A. Sadiki. The building went through several interventions over the last twenty years, changes that transformed the building making it look different from what it looked like in the past. During the post-war period, it served as a home for the 'Ministry of Public Services' thereafter for the 'Ministry of Public Administration' and has recently been used by the 'Ministry of Infrastructure' and the 'Kosovo Tax Administration'. These transformations took place at different deadlines in 2001, 2004, 2008. Later, the government presented a plan to demolish it, proposing a project for the City Concert Hall, but this fact sparked a great deal of public debate among the citizens. The local organization DoCoMoMo Kosova through a request addressed to the Ministry of Culture, Youth and Sports, made it possible for the building, in October 2018, to be listed as a modernist cultural heritage among other cultural heritage buildings.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:%27Germia%27_Shopping_Center",
+        "image": "/Buildings/pristina/Germia_Shopping_Center_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.16308,
+       42.66359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Rilindja' Media-house Building",
+        "description": "The idea for the press palace began in the 1960s, but came to Skopje architect Georgi Kostandinovski  (a student of American architect Paul Rudolph at Yale University and an intern at IM Pei studio) in 1971, and in three months, in his bureau  called 'Underground' (along with a group of engineers and architects), the Rilindja palace was conceived. The cornerstone of the building was laid in 1972 but construction works were halted for financial reasons, to continue again in 1974. In 1978 the building was completed. The building consisted of a high 18-storey tower where the spaces of journalism and publishing were located and the printing room (below the tower), distributed in two floors. The plan of the tower floor is square, with constructive cores in the center and 30x140 pillars around the perimeter of the building, clearly visible even on the façade, as part of the brutalism language. Vertical communication and services were located in the central constructive cores. Part of the expression on the facade are the vertical elements, with the impression of  a triangle shape, colored in white, elements which give verticality and volumetric depth to the building. It is characteristic to mention, innovative for the time, the fact that all the installations necessary for the functioning of the building, go through these elements of the facade, an idea for which the architect was inspired by his professor Paul Rudolph in the Boston Government project. The printing house has constructive pillars 1x1m at a distance of 10m from each other to create free space in the placement of printing machines. During the 80's and 90's, Rilindja, equipped with the most advanced technology of the time, entered the international printing market, printing books known from Poland, East Germany, Hungary, Slovenia and more. Also, the building has historical value because it was deliberately built to host the first Albanian printing media during Socialist Yugoslavia, therefore was considered as a 'nest' of intellectuals of the time. In November 2008, the Press Palace was renovated to accommodate the Ministry of Public Services, giving it a new envelope, which to this day, has completely covered the architectural expression, vulnerability and simplicity of the building, characteristic of the modern architectural movement when this project was conceived. The intervention in the image of the building has simultaneously affected the silhouette of the city. During his visit to Pristina after many years, architect Konstandinovski did not recognize his building. The printing spaces have been abandoned for a long time while periodically being used for years informally, as  restaurants, radio and TV stations, gyms, etc. and partially abandoned, but still remains with the features closest to its original condition in comparison with the tower.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:%27Rilindja%27_Media-house_Building",
+        "image": "/Buildings/pristina/Media-House_Rilindja_08.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.15606,
+       42.65944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youth and Sports Center 'Boro Ramiz'",
+        "description": "In the series of constructions of the 70s, the Youth and Sports center was built. Kosovo had a majority of young people therefore the need for sports and recreation centers for this category arose. The center was originally named 'Boro and Ramiz', after two World War II partisans and Yugoslav heroes Boro Vukmirović and Ramiz Sadiku. This connection symbolized the coexistence and brotherhood between Serbs and Albanians. The building seems to have been designed in the same concept - with two volumes that share a common structural axis. The Boro Ramiz building was the product of a competition held in 1974, where 6 studios were called and the winner was the Sarajevo-based architecture studio 'DOM' with the main architects: Zivorad Jankovic, Halid Muhasilovic, Sretko Eshpek, who had many projects of the same typology, carried out throughout the then Yugoslav federation. Zivorad Jankovic, also a professor at the Faculty of Architecture in Sarajevo and Pristina, had a significant name when it came to designing sports and recreation centers. The construction lasted from 1976-1982 and the contractor for the realization of the construction was the company Ramiz Sadiku. Based on conversations with center employees who witnessed the construction of the building as well as old photos, shopping malls and spaces where today is the Red Hall and the American School of Kosovo were built first while the central compositional part where the indoor large halls were added after. The solution offered by the team from Sarajevo, located on 60,000 square meters, included: a large universal hall, a small hall, four training halls, a bowling alley and numerous accompanying facilities, a youth center, a shopping center, an indoor pool, outdoor sports fields for small sports, skating and outdoor pool. What makes it special is its volume, its scale, its materiality and the fact that it works as a connecting point with many important points of context. The building has the Printing House Rilindja, the City Stadium and in the original project there should have been a platform that connects it to the Grand Hotel. In addition to its architectural value, it is also believed to have a symbolic meaning, characteristic of a modern concept of regionalism, where its volume represents many national meanings. On February 25, 2000, the building was severely damaged by fire, completely burning the south side of the building, so the large hall today remains used as garages and non-functional, while other spaces are actively used but not properly preserved.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Cultural_and_Sports_Center_%27Boro_Ramizi%27",
+        "image": "/Buildings/pristina/Youth_and_Sports_Center_Prishtina_Ex-Boro_Ramiz_05.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1555724,
+       42.6611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coffee Shop Elida",
+        "description": "Inside the 'Boro Ramizi' Complex is the famous confectionery 'Elida', which was not just a confectionery and cafe, but represented an important informal meeting point for the elite of the time, artists, politicians, activists, around the late 80s to early 90s. It represented a common space where important discussions, event programs and many initiatives for society were taking place. It is believed that the famous artist Bekim Fehmiu, before leaving Pristina in '87, met with his friends and artists there. Also, the members of the LDK party, chose exactly Elida as a meeting place to declare 'Ibrahim Rugova' as their leader. Elida is still functional today and has preserved interior elements (such as the ceiling, seats and floor) since the time of opening.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Elida_Confectionery",
+        "image": "/Buildings/pristina/Youth_and_Sports_Center_Prishtina_Ex-Boro_Ramiz_18.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1555724,
+       42.6611111
+        ]
+      }
+    },
+    {
       "type": "Feature",
       "properties": {
         "name": "Grand Hotel Pristina",
-        "description": "Grand Hotel Pristina was designed in 1974 by the Kosovar architect Bashkim Fehmiu and the Serbian architect Dragan Kovacevic and Misa Jevremovic, as a mid-size town hotel representative of late modernism architecture in Pristina, more aiming for an international style than actually trying to adapt to the surrounding architecture. It is situated in the city center being a very important part of the general urban plan of 1953 for Pristina, by Dragutin Petrovic and serving as an entrance gate to the main square 'Zahir Pajaziti', a very well-studied position since Fehmiu had an urban planning background also. The way it is situated, somehow breaking the linearity and continuity of the north-south Boulevard, creates valuable, positive public space around it. The building represents a landmark in the modernist architecture of Pristina, also because also of its characteristic volumetry, made simply with clean volumes, transmitting a certain sense of rhythm and calming repetition, by the way, placed in relation to each other. Several interventions started in 2012, and in the last two decades, many were implemented on its interior. Recently a project of facade-restoration started to be realized, but stopped because of several protests from Pristina's citizens and architects union, on the way this intervention was being applied. It was therefore transformed through the years, making it very difficult to be preserved as a Cultural modernist Monument.",
-        "linked": "More photos of the Building\nhttps://commons.wikimedia.org/wiki/Category:Grand_Hotel%2C_Pristina",
-        "image": "/Buildings/tirana/small/Villa_on_Rruga_Dervish_Hatixhe_small.jpg",
-        "large": "/Buildings/tirana/Villa_on_Rruga_Dervish_Hatixhe.jpg",
+        "description": "The Grand Hotel Pristina was designed in 1974 by Kosovar architect Bashkim Fehmiu and Serbian architect Dragan Kovacevic, as a medium-sized hotel representative of late modernist architecture in Pristina, aiming for an international style rather than actually trying to adapt to the surrounding architecture. It is located in the center of the city being a very important part of the general urban plan of 1953 for Pristina, by Dragutin Petrovic and serving as a gateway to the main square then called Marshall Tito, today Zahir Pajaziti, a very important position. studied by prof. Fehmiu as a result of his professional background in urban planning. The way it is located, somewhat breaking the linearity and continuity of the North-South Boulevard, creates valuable, positive public space around it. The building represents a reference point in the modernist architecture of Pristina, also because of its characteristic volume, made simply with clean volumes, transmitting a certain sense of rhythm and soothing repetition, from the street, placed in relation to each other. Tito also stayed in this hotel during his visit to Pristina. In 2012, the restoration project started to be implemented, but was stopped due to some protests by the union of citizens and architects of Pristina, against the way this intervention was being done. Due to numerous interventions over the years and especially in the interior, it has become very difficult to preserve as a Modernist Cultural Monument. The only remaining part of the interior is the reception and entrance hall, which has elements and materials preserved from the time of construction.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Grand_Hotel,_Pristina",
+        "image": "/Buildings/pristina/Grand_Hotel_10.jpg",
         "exists": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.16010,
-	  42.65993
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1580161,
+       42.6597079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bozhuri Hotel",
+        "description": "Following the application of the General Urban Plan of 1953 and the restructuration of the historic center of Pristina,  the Llokaqi Mosque built in 1551, was destroyed in 1954 to clear space for the erection of  the Hotel 'Kosovo Bozhur '(Peony of Kosovo). The hotel is named after the peopny flower, the type of flower that is very common in Kosovo. The building was designed by engineer B. Pozanjakov and architect G. Nechayev, in the period 1955 -1958. It has a humble design, divided into two volumes, one lying horizontally at the feet of the vertical volume, which extrudes four floors above the ground floor, clearly reflecting the internal functions. The rooms were located in the vertical volume, understandable from outside as well, with spacious, recessive balconies. The horizontal volume accommodates the restaurant and other ancillary functions. Old photographs of the building, show a mosaic of three horsemen on the west façade, which has vanished during its lifespan. Hotel Bozhuri was a frequented space by citizens of Pristina where the elite of the city met, serving as a space where many important decisions were made. The former Bozhuri Hotel, later called Hotel Iliria, was privatized in 2006 and bought by the company Mabetex which currently manages under the name Swiss Diamond Hotel. Today the hotel shows almost no signs of the original building older than 50 years, covering the characteristic expression with recessive balconies and the pure, neo-rational language of modernity. Today the building shows a mixture of neoclassical elements and contemporary materials, incompatible, that do not fit into the surrounding urban context and in total discrepancy with the architectural identity of the city.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Bozhuri_Hotel",
+        "image": "/Buildings/pristina/Bozhuri_Hotel_03.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.16389,
+       42.66264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosova Bank Building",
+        "description": "In the 1970s, when provinces like Kosovo won the autonomy from the Yugoslav Federation, to manage its natural resources, the necessity for banking and administrative space arouse, both within the country and with other countries in the federation. For this reason a competition opened in 1972 and this project was won by architects Milan Tomić and Milan Pavlović. Construction began in 1975 and lasted until 1978. Kosova Bank had thirteen floors and the volume of the ground floor where the main entrance was located. The administrative spaces were located in the vertical tower, therefore the building has transparency with many windows, for which its height is not felt as visual weight. It is thought that the original project planned two identical towers, but only one of them was realized. As the volume increases, the floors area shrinks, creating gradual decreasing terraces along the verticality of the volume. Another feature is the readability of the construction which also participates in the architectural composition. The levels of the floors (construction slabs) and the main structural axis of the tower are very visible on the façade of the building and give its verticality. On the main axis are located the stairs visible from outside, creating dynamic movement within the volume. Since the 1999 war, the building accommodates Kosovo government offices and several ministries. It was renovated with new, incompatible materials covering the appearance of the structure and the original architectural expression, of the architectural movement the building represents.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Kosova_Bank_Building",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1562307,
+       42.6600244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosovo Energy Corporation",
+        "description": "The administrative building of ElektroKosova is the result of an architectural competition organized in 1977, where the first prize was won by the architect Dragan Kovacevic with the bureau 'Invest Bureau'. It was inaugurated in 1984. In the city the building is also known by the nickname Lepa Brena, which means 'beautiful pine', a name given to it by the citizens to symbolize its length and beauty. The administration is located in the vertical volume and has a special entrance, separated from the communication with clients. The customer area is located at the foot of the building, divided into two floors with a separate entrance from the administrative part. Due to the sloping terrain, customer entrances are accessed by stairs. The building is lined with marble and stained glass. Due to the administrative function, the building has many openings on all sides of the façade. In the southern part of the building, after 2000, there were inadequate interventions covering the original façade partly with a ventilated façade with alucobond.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Kosovo_Energy_Corporation",
+        "image": "/Buildings/pristina/Kosovo_Energy_Corporation_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1559663,
+       42.655116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vetfarm building",
+        "description": "Vetfarm is a listed monument located behind the District Court, close to the green market. The book Abandoned Sites of Kosovo states that this building was built in 1931 and designed by Austrian architect Andrija Kremer, to serve the Women's Social Organization. Moreover, it is said that in 1932 it was used as a carpet craft school, to be transformed into the Hospital Hygiene Department after the Second World War. The building lies north - south in the shape of the letter L, with functions distributed on one floor, raised from the ground by 4 steps. The entrance of the building is marked with a volume extrusion out of the building, with a characteristic cover, a dome awning and semicircular staircase. From the revelation of the facade, the construction material made of baked brick can be observed, a material which is also seen in the buildings of the same time of construction. On the south facade, the building has 6 semicircular windows. Above the windows, as part of the decorations on the facade, one can notice a rhythm with relief in the shape of an arcade and neo-classical elements, characteristic of the style and architectural expression of the building. The building is abandoned and has major damage such as loss of roofing material and roof exposure, loss of construction and facade material as well as loss of architectural elements and decor.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Vetfarm_Building",
+        "image": "/Buildings/pristina/VETFARM_01.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.164645,
+       42.6751145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Former Restaurant Marsi",
+        "description": "According to the book Abandoned Sites of Kosovo, the building was originally built as a self-service (market) dedicated to the residents of the neighborhood 'Kodra e Trimave' (Vranjevc) by the State Commercial Enterprise 'Voçari' and functioned as such until 1994. Some other sources say that self-service was built in the late 70s. In 1995 it was transformed into a private restaurant called 'Restaurant Mars', which during these years was an important celebration space for the society of the 90s, where many music events, weddings, mature evenings and beauty contests were held. The work of the restaurant was stopped by the events of war of 1999. In the post-war years the space was used as a nightclub while since 2003 the space has been abandoned without function. The building has a clean octagonal shape, with entrance on the north side. It has two floors but from the outside, as a result of the architectural expression it is understood as a single space, without clean separation of floors. The space inside is free with a column in the middle of the octagon. The constructive elements are visible and intentionally exposed both from outside the building and inside the spaces. These elements become the main emphasis of the architectural language of the building. In an attempt to turn attention towards the abandoned buildings, in October 2019, the local artist Fitore Isufi-Koja presented an artistic intervention called 'Flirting with leftovers'. From the September 2020 visit, the building shows severe state of spatial deterioration, material loss and roof damage. Due to the fact that the space is obsolete and open, this space has turned into a source of bad events.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Former_Restaurant_Marsi",
+        "image": "/Buildings/pristina/Ex_Restaurant_Mars_04.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.164645,
+       42.6751145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiosk K67",
+        "description": "Kiosk K67 was introduced in 1966 by Slovenian architect and designer Saša J. Mächtig. After being patented in 1967, the K67 was prepared for serial production in 1968. The kiosks were a modular structure made of polyfibers, which functioned as a single unit or combined into larger ensembles. This modular design allows them to adapt to almost any location and context, as well as accommodate a variety of functions such as newspaper kiosks, parking toll booths, copy shops, market stalls, mobile cafes or lottery kiosks. K67 kiosks became very popular not only throughout the former Yugoslavia but they were also sold in Japan and New Zealand. They were easily detectable in cities because of colors like white, red, green and orange. K67 was part of the exhibition 'Toward a Concrete Utopia: Architecture in Yugoslavia, 1948-1980', at the Museum of Modern Art (MoMA) in New York. K67 as an urban furniture were part of the collective memory of the city together with numerous memories such as buying family's daily newspaper or snacks on the way to school and more. Today such kiosks can rarely be found in Pristina (there are also in other parts of Kosovo) as their production has stopped. They are found spontaneously, sometimes abandoned or occasionally used, mostly as payment stands in parking lots.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Kiosk_K67",
+        "image": "/Buildings/pristina/Kiosk_K67_01.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1706045,
+       42.6660172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Former Bankkos",
+        "description": "In his interview for Oral History of Kosovo, architect Shefqet Mullafazliu, a graduate of the Faculty of Architecture at the University of Skopje in Northern Macedonia in 1969, recounts the time when BankKos was designed. He together with a colleague, also a former student from Skopje, worked on the idea for this building while they were employed in the construction company 'Ramiz Sadiku'. In the internal competition organized by the bank and the construction commission within the bank, Mr. Mullafazliu and his colleague represented the company, which later won the construction of BankKos as well. The Office for Urbanism and Design and other companies also participated in the competition for the design of this Bank. According to the architect, the building had such a volumetric solution and urban positioning due to the location in an urban corner, where two roads meet, a solution which opened the urban views and released the load of the road. He also mentions the fact that the functional part of the building and the standards related to banks (counters, administration and more) played a formative role in the project. Moreover, to free the pedestrian circulation at this intersection, it is believed that the building is erected on pillars on the western side. In the direction of George Bush Street, the building opens in the shape of a broken rectangle in the middle, where the stairs and the main entrance to the building were positioned. The materials used in both the construction and the covering of the building were local materials, a policy of that time for the use of local materials, according to the words of the architect. '... our concrete, the cement was from Hani i Elezit, the gravel was from our quarries. Only the iron we got from Zenica, Bosnia and so on ... the marble was from Deçan, some dark green colour with  white lines texture... It was strong marble, granite. ' Marble was a material widely used in many buildings of that time, such is still found in the Grand Hotel. Today the building has lost its exterior expression and original materials as it was renovated to be used by LC Waikiki store. Some volumes and architectural elements are still visible, but the loss of materiality has also lost the character of the time when it was built.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Ex_Bankkos_Pristina",
+        "image": "/Buildings/pristina/Ex_Bankkos_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       19.8187098,
+       41.3275344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cathedral church of Christ the Saviour",
+        "description": "It is an unfinished Serbian Orthodox Christian Church, whose construction started in 1992 and was afterward interrupted because of the war in Kosovo, in the courtyard of the University of Pristina. This event happened when Kosovo lost its autonomous status from the Yugoslav Federation in 1989, therefore the Municipality of Pristina under the Belgrade influence, gave a portion of land belonging to the University of Pristina to the Serbian Orthodox Christian Church, in a troubled time where students and teachers were being expelled from the university building. The construction of the building was opposed by the Muslim population in Pristina. During the War in 1999, an attempt to demolish the building was done, using explosive but little damage were made to it, in the end. It was seen as a symbol fo the 'serbization' campaign therefore after the War it was continuously vandalized. The Municipality of Pristina with a majority of Albanian population proposed four uses for the building: keeping it in its actual state, demolishing it, maintaining it as a Museum or using it for some alternative purposes. The problems with the building were translated into the issue for the ownership of the land it was constructed, making the future of this building still today quite uncertain. The ownership of the land was disputed, through the years between the SOC ( Serbian Orthodox Church) and the University of Pristina, also in 2016 it was set on fire, and vandalized even more. the Kosovo Appeal Court granted land ownership rights to the SOC, even though the University of Pristina continues to block any attempts to continue with the refurbishment of the Church.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Christ_the_Savior_Cathedral_in_Pristina",
+        "image": "/Buildings/pristina/Cathedral_Church_of_Christ_the_Saviour.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.16358,
+       42.65850
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Film Center 'Kosovafilm'",
+        "description": "The Kosovafilm building was designed by Kosovar architect Sali Spahiu and is located on the outskirts of the city of Pristina. The building is built on the hill of Arbëria (former Dragodan), in a location rich in vegetation, from where you can see very clearly the silhouette of the city of Pristina. According to the architect, the building was the only one in the context, therefore the whole articulation of the spaces in the floor plan extends wide, horizontally. The building has three floors where cinemas are located, a warehouse where movies are stored, administration, tonic hall (where movies are synchronized). The articulation of the spaces is in the form of cascades in order to extend as organically as possible on the context and allow views towards the silhouette of the city. Public and social spaces where film-related events were held are organized on the ground floor. The spaces inside the building receive a natural source of light through roof striped lighting, located in- between the floors. The sharp, ocher color of the facade came as inspiration from the photo film wrapper of the well-known company Kodak, to be related to the function of the building. The envelope was made of reinforced polestite, an innovative material for the Kosovo construction market of that period. The external architectural expression is in contrast with the environmental context, but in complete harmony, complementing each other. The Kosovafilm building received the first prize of the Association of Applied Artists of Kosovo and the 'Borba' award for architecture in Kosovo in 1987, for the interpolation of the building in the natural environment. Since 1999, the former Kosovafilm building has been used as the administrative building of a KFOR military base.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Film_Center_%27Kosovafilm%27",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.148764,
+       42.663434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radio Television of Pristina",
+        "description": "Radio Pristina started working immediately after the Second World War, first in Prizren, then moved to Pristina making its first broadcast in 1945. Then in 1974 Pristina Television started its first broadcast. As an institution, RTP has an indisputable value in disseminating news in Albanian language, at a time when this was not an easy task. The Radio Pristina building was conceived by Oton Gaspari, a Slovenian architect in 1965, specifically for this function. The building visibly consists of two volumes, one spreading horizontally and the other rising vertically. Both volumes have their independent expression in particular but also remain in complementary harmony in general. The administrative spaces are located in  the vertical volume, with  triangle floor plan. Due to this function that requires good lighting, the vertical volume P + 10 floors, shows many openings in the facade, with windows in row throughout the whole perimeter of the facade. The remaining part of the building is solid material made of concrete. The volume in the horizontal part of the building, at the entrance, increase in the form of a pile. In this zone, the radio halls and the technical part of the realization of the news are located therefore this part of the building has more solid expressions due to the lack of necessity for lighting. Characteristic of the architectural expression is the facade made out of natural concrete with ribbed texture. The interruption of programs from this radio-television was terminated with violence by the Serbian government in 1990. Today the building is used by Radio Pristina and partially by KTV (Koha Vision). In 2019, RTP did not escape inadequate interventions with inappropriate materials, compromising the authentic image and architectural features of the building.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Radio_Televizioni_i_Kosov%C3%ABs",
+        "image": "/Buildings/pristina/Radio_and_Television_of_Prishtina_07.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.161119,
+       42.657861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Student's Menza",
+        "description": "Following the expansion and construction of spaces for the functioning of the University of Pristina and its accompanying functions, the Student Canteen was built, in the vicinity of the University Campus. This building was designed in 1974, by the architect Dragan Radulović, who was also a professor at the Faculty of Architecture at the University of Pristina. The canteen is located on a steep terrain, with the Sun Hill on its back. The building is raised on two floors, formed by two volumes with a sloping roof, which are separated from each other by the volume, where the entrance to the building is located. Since the building is located on an urban corner, it can be accessed from context on both sides of the road. The first access is from the main road Agim Ramadani, with a set of stairs while another access is enabled from the road Eqrem Qabej, both bringing to the same point, the entrance patio. The canteen is completely transparent due to the public function, with large windows, which opens the views towards the silhouette of the city. Constructive elements such as columns and structural slabs with natural concrete are emphasized in the external expression of the building and participate significantly in the structural and aesthetic form of the building.It has a very articulated facade with its balconies and several platforms that continue into the open public space, making it more communicative to the surroundings. It is listed as an important Modernist Heritage. The undisputed architectural values of the Student Canteen were written at the time by the architect Andrija Mutnjakovi (architect of the National Library), in the magazine 'Arhitektura' of 1981, considering it as one of the most significant buildings of modern architecture in Kosovo. In 2018, Menza was renovated, being partially covered with a color rendered facade, covering or painting parts of the original material from natural concrete, with a ribbed texture. These interventions have covered the original elements of the building, which allow the understanding of the architectural language and the understanding of the architectural period to which the building belongs, practices which are not supported when intervening in buildings of historical and architectural value.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Student%27s_Menza_(canteen)",
+        "image": "/Buildings/pristina/Students_Menza_canteen_02.jpg",
+        "exists": ""
+      },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       21.1626143,
+       42.6543445
         ]
       }
     }
+
   ]
 }
