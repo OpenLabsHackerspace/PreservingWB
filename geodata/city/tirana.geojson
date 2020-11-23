@@ -179,7 +179,7 @@
       "type": "Feature",
       "properties": {
         "name": "Villa on ‘Rruga Durrësit’",
-        "description": " ",
+        "description": "This urban villa represents a monument of the second category, listed in March 2007. It was built around the beginning of the '30s and later functioned as the seat of the Turkish Embassy, at that time it was called 'Turkish Legata', despite being realized with a residential character in mind. Its architecture resembles neoclassical features rich in detailed window frames and floral ornaments, along the main facades as well as railings with treated iron profiles. There are two visible entrances along the main street façade as well as a secondary one from behind the house. Regarding the construction, it is made of brick masonry, mortar and wood. It is one of the most monumental and spacious villas if we refer to its horizontal extentention. The villa's  volume stands out especially along the main street, from the combination of the rich architecture of facades with the natural elements, more specifically hanging ivy and greenery.",
         "linked": "More photos of the Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_Rruga_Durr%C3%ABsit",
         "image": "/Buildings/tirana/Villa_on_Rruga_Durrësit_small.jpg",
         "large": "/Buildings/tirana/Villa_on_Rruga_Durrësit.jpg",
@@ -299,8 +299,8 @@
      {
       "type": "Feature",
       "properties": {
-        "name": "‘Qemal Stafa’ Stadium",
-        "description": "Built by Italians in the '40s, implementing a similar scheme with that of small city stadiums in Italy. The stadium is one of the last projects closing the Complex of the Boulevard, designed by the Gerardo Bosio’s working group. It represents a quiet qualitative construction work. It was connected to the square, the University building and the Colonnade strategiclly, visually and functionally.  To make it possible for the massive crowds  to come in and out of it a second square was created, smaller than the main square.It used to have the same façade material as the University, massive stone tiles.In the 1970s, the government decided to increase the capacity of the stadium and so the stairs were built with a system of reinforced concrete trusses. ",
+        "name": "The former stadium 'Qemal Stafa'",
+        "description": "The construction for the National stadium 'Qemal Stafa' finished in 1946, implementing a similar scheme with that of small city stadiums in Italy . The project for the stadium was realized by a team, lead by the Italian architect, Gherardo Bosio, conceived as part of a very important architectural Ensamble for Tirana, including the today University of Tirana building (former 'Casa del Fascio'), The Colonnade and Academy of Arts. Fact that is shown in the treatment of the main facades with big decorative marble tiles, in the same way the University building facade is, giving to it a sense of belonging to the site and connecting very harmoniously with the sorrounding. A secondary square, Square 'Italia', was created beside the main square 'Mother Theresa', so that the big number of people and fans waiting for the football match to start, would have a foyer where to wait. An important Olympic running track was part of the inner stadium also. In the 1970s, the government decided to increase the capacity of the stadium and so the stairs were built with a system of reinforced concrete trusses. Through the years the outdoor facade spaces of the stadium were occupied from informal coffe shops, shops and other  businesses. The stadium was demolished in 2016 to be replaced with a new one, through changing his status of a monument of second category. ",
         "linked": "More photos of the Stadium\nhttps://commons.wikimedia.org/wiki/Category:The_pyramid",
         "image": "/Buildings/tirana/Tirana_stadio_qemal_stafa_small.jpg",
         "exists": "no"
@@ -615,7 +615,7 @@
       "type": "Feature",
       "properties": {
         "name": "House 'Vaqari'",
-        "description": "",
+        "description": "This house is located along 'Dibra' Street. It is one of the typologies of the characteristic traditional Tirana houses. Usually, these houses did not extend along the road but were rather shifted to it leaving space for the yard at the front of the house as well as the back porch, both very rich and spacious. In terms of construction, these houses were made of 60-70cm thick walls (clay brick dried in the sun) bonded between them with clay mortar and interspersed each 70cm-1m with anti-seismic wooden bands placed one inside and one outside the construction, creating a wooden skeleton. The masonry on both sides is plastered with mud and painted with lime as well, to a great extent and for good hygiene. They communicated with the road through the perimeter walls and a two-door gate to create access for the horses. Part of the courtyard was paved with cobblestones, slabs of river stone and part of it in the courtyard developed a well, which for many houses was shared with neighbors, not every house owned one. The part of the garden rich with many fruit trees, aromatic and ornamental plants. The house gates did not close with keys, and at times there were internal gates that connected the houses between them until 1944 this feeling of security and confidence in the city continued. This typology of Tirana's houses with spacious courtyards persisted until 1944, and this typology of house-building was realized until the 1920s when by law in 1922, it was banned from being continuously built. Later on, around 1925 and afterward, the period of construction of the most modern residential townhouses, continued according to European models. The 'Vaqarri' house represents a typology of Tirana's houses with adobe brick walls and anti-seismic bands, but one of its facades is oriented along the main road leaving the organization of its inner courtyard, and the main entrance gate on its surrounding wall. It is currently in a very bad state and almost deserted, only an elderly lady lives in and its ground floor is used for commercial services.",
         "linked": "More photos of the Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_2_along_Rruga_Dibr%C3%ABs",
         "image": "/Buildings/tirana/VILLA_2_ALONG_RRUGA_DIBRES_small.jpg",
         "exists": ""
@@ -805,9 +805,9 @@
       "type": "Feature",
       "properties": {
         "name": "House 'AliMehmeti' on 'Barrikada' street",
-        "description": " ",
+        "description": "It is Believed to have been built around 1938, with an Italian project. Its original function was residential, then during the years of the communist regime it returned to the first kindergarden of the city of Tirana, then served as the 'Institute of Alternative Medicine'. This situation continued until the 1990s when it returned to its original owners. A very similar project is located on the other side of the street, just inside the neighborhood, which is nowadays used as an actual kindergarden.",
         "linked": "More photos of the Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_%27Rruga_Barrikadave%27",
-        "image": "",
+        "image": "/Buildings/tirana/Villa_on_Rruga_Barrikadave_07.jpg",
         "large": "",
         "exists": ""
       },
@@ -874,7 +874,7 @@
       "type": "Feature",
       "properties": {
         "name": "Radio Tirana's medium wave transmitter Kashar",
-        "description": "Radio Tirana’s 50 kW medium- wave transmitter in Kashar was inaugurated in 1952 during the communist regime in Albania. ",
+        "description": "Radio Tirana’s 50 kW medium- wave transmitter in Kashar was inaugurated in 1952 during the communist regime in Albania. Today stands abandoned and completely neglected.",
         "linked": "More photos of the Building\nhttps://commons.wikimedia.org/wiki/Category:Building_along_Tiran%C3%AB-Durr%C3%AB_highway",
         "image": "/Buildings/tirana/Radio_Tirana’s_medium-wave_transmitter_Kashar_small.jpg",
         "large": "/Buildings/tirana/Radio_Tirana’s_medium-wave_transmitter_Kashar.jpg",
@@ -962,17 +962,16 @@
       "type": "Feature",
       "properties": {
         "name": "Villa on 'Musa Karapici' street",
-        "description": "",
-        "linked": "More photos of the Villa\n ",
-        "image": "/Buildings/tirana/ ",
-        "large": "/Buildings/tirana/",
+        "description": "This villa was co-owned by several families, by the grandsons of the original owner who commissioned and built it, today has changed ownership to a single owner. The house, despite the preservation of many characteristic architectural elements on on its exterior, its interior is almost totally ruined and inaccessible on the upper floor becouse of the unstable staircase. Its backyard is thought to be inhabited by people who have occupied it temporarily.",
+        "linked": "More photos of the Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_Musa_Karapici_street",
+        "image": "/Buildings/tirana/Villa_on_Musa_Karapici_street_08.jpg",
         "exists": "no"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.82656,
-          41.32946
+          19.82648,
+          41.32982
         ]
       }
     },
@@ -981,9 +980,8 @@
       "properties": {
         "name": "Villa 'Destil'",
         "description": " ",
-        "linked": "More photos of the Villa\n ",
-        "image": "/Buildings/tirana/ ",
-        "large": "/Buildings/tirana/",
+        "linked": "More photos of the Villa\nhttps://commons.wikimedia.org/wiki/Category:Villa_Destil",
+        "image": "/Buildings/tirana/Villa_Destil_01.jpg",
         "exists": "no"
       },
       "geometry": {
@@ -1029,9 +1027,290 @@
           41.33006
         ]
       }
-    }
-
-
-
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa 1 on ‘Xhorxhi Martini’ Street ",
+        "description": "Monument of first category, listed in 1973. It has served as the headquarters of the Organization 'Bashkimi', even though It was realized as a private residential building. It used to be a complex consisting of two buildings, with almost the same plan and volume concept, also the two buildings used to be close to each other, today there is only one of them. The first house rises above ground level without a basement and has a low foundation of approximately 50 cm, filled with river-stones. The second one almost like the first one and it preserves the same building techniques, with the first building materials like adobe bricks, wooden planks, bricks, wood carving, and lime-plastering.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Villa_1_on_Rruga_Xhorxhi_Martini",
+        "image": "/Buildings/tirana/Villa_1_on_Xhorxhi_Martini_street_08.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.824183,
+         41.328156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House Farka",
+        "description": "Today abandoned, it belonged to Halil Mustafa Farka. Inherited afterward by the two brothers of the Farka family. It is a traditional house made out of adobe bricks and antiseismic wooden beams, in its main construction. ",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_the_crossection_between_Rruga_Kont_Urani_and_Mihal_Duri",
+        "image": "/Buildings/tirana/House_Farka_01.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.81233,
+         41.329454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House Toptani",
+        "description": "This vernacular, traditional house was listed as a first category Monument in December 1987 and one of the representatives of the traditional house of Tirana. The traditional house of Tirana, occupies a special position in the architecture of the Albanian urban houses.  The masonry ranges in width from 60 to 70 cm. The adobe bricks are tied with clay mortar mixed with straw. Every 1 m bands of adobe bricks wall are tied to bands of wood with an anti-seismic function. Construction of these houses with adobe bricks is typical of Central Albania and was allowed as a type of construction in Tirana until around 1923. The facade wall of the 'guest room' on the upper floor, is made out of this traditional, older but light construction(wooden planks with layers of plaster), known as 'çatma'. It is believed to belong to one of the biggest families of the city, 'Toptani' family, more precisely belongs to Maliq Toptani. Today it is believed to be divided between two families, because of its two main entrances and the fact that the ground floor of one half of the house has gone through some reconstructions and changes from its original condition.In this typology from the simplest to the most developed types, we find the same functional concept expressed in the grouping and organizing all the main functions around a central core, known as 'the house of fire'. In the original types, it is a village house, but in its development as well as in its most perfect forms it never failed to separate from the rural house and it is precisely this reason that this house at the beginning of the 20th century was not built anymore because it did not have the requirements to somehow fulfill the needs of the time.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_Toptani",
+        "image": "/Buildings/tirana/House_Toptani_03.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.827506,
+         41.329048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa on ‘Papa Gjon Pali II’ Street",
+        "description": "This villa is part of an area in Tirana, designed as the so called Garden City back then, where a very important urban unit of the city where houses distanced from the streets  with a prominent rich, garden. The villa has a clear tendency towards italian  rationalist architecture based on the project of architect 'Brasini', but also with some influences from Bauhaus school. At the front of the villa, with access to the main road, there is the main entrance to the house, while on the other side there is the gate passing to the backyard, where a second entrance is visible. ",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_Papa_Gjon_Pali_street",
+        "image": "/Buildings/tirana/Villa_on_Papa_Gjon_Pali_2_street_06.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.822603,
+         41.323134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa on 'Pjetër Bogdani' street",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Villa_on_Pjeter_Bogdani_street",
+        "image": "/Buildings/tirana/Villa_on_Pjeter_Bogdani_street_06.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.81666,
+         41.32134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tirana's Hospital",
+        "description": "'Tirana's Hospital' which was later renamed 'The State Hospital' used to be located at the site of 'Hani i Esat Pashes', next to the Clock Tower. Dr. Osman Jonuzi, who was at the same time the chief of Surgerys Department, was assigned as the director of the hospital. In 1920 the American Red Cross asked the Albanian state to maintain the hospital at its own expense. This building was one of the oldest in Tirana and when the new hospital was built in 1932, it changed function and was transformed into a hotel. in 1948 it was burnt down by the 'State Security'(Sigurimi) and later was completely demolished. In this location, today there is a plan for the realization of a three-tower building complex, exactly between the Clock Tower and the building of the 'Kaceli' family.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Tirana%27s_First_Hospital",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82003,
+         41.32768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building of 'Kaceli' family",
+        "description": "It is thought to have been built in 1930, otherwise known as the 'Vllazen Kaceli' Palace, as well as the inscription on the west façade. It is among the first examples of palaces built to host different rental families, with no connection between them. The building has been a very important part of Tirana's silhouette for years because it has always been there, present and featured in a series of photos and paintings from the Tirana Liberation in 44'. It has a rational, Italian-influenced architecture. One of the first residential buildings in Tirana built with a roof and its two lateral sides, the eastern and western sides, with almost-closed facades (without windows), back then with the purpose of gradually attaching other adjacent buildings to these ones. There are many stories told by the descendants of the family nowadays, related to this building with various events happening there. One of the family's members, the painter Sadik Kaceli, lived with his wife for years in one of the apartments, in the attic, and he used to take many photos of Tirana at that time, mostly photos with historical value. According to family stories, while trying to photograph the Germans in 'Skanderbeg' square, the light reflection from the lens of his camera in the sun, was noticed by a German soldier, in one of the square bunkers, causing a massive shooting towards him. He escaped from the bullets, that actually provoked a hole into a drawing protractor, still preserved today by the  Kaceli family members as part of the memory of the event. Another prominent figure in the family who had a fate different from Sadik, was his other brother 'Jonuz Kaceli' who was persecuted by the communist regime and shot dead with the accused people charged for bombing the Soviet Embassy, and persecution continued for his family, his wife and the children he left.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Building_of_Kaceli_family",
+        "image": "/Buildings/tirana/Building_of_Kaceli_family_08.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82074,
+         41.32776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brother's Coka Building",
+        "description": "Situated on Boulevard 'Zogu I', formerly called 'Vitorio Emanuele Boulevard'. It was designed by Skender Luarasi with consultant architect for the project, Ferdinando Poggi. The owners of the land, Theodor and Profi Coka, ordered the construction of the building, around 1946 (in 1942 they applied for the first permit). This building is situated near the palace designed by Max Velo (known as' The Journalists Coffee') .Initially the plan was to realize it on three floors while it was later realized in five such that the last one is shifted than the other floors, leaving room for a rooftop and slightly breaking its rationalistic volume. The upper floors have been treated with decorative ceilings with a very clean rational spirit and some of the rooms have been decorated with chimneys with several types of marble, the same used in the stairs. Part of the building is located on the site where 'Bar Odeon' used to be, a very prestigious site for the time. This building has changed its function over the years, served for a period as the 'Albanian Telegraphic Agency' later as a space for 'Bashkimi Publishing'  and after 90' Top Channel offices were welcomed there. The last two floors have been used as UFO University dormitories. It represents a second category monument and recently, the building is under a process of facade restoration and interior reconstruction, waiting to be transfomed co-working, cultural hub, by private initiative investment.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Brother%27s_Coka_Building",
+        "image": "/Buildings/tirana/Brothers_Coka_Building_02.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.81776,
+         41.33150
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Hasan-Reshat Petrela",
+        "description": "It represents a vernacular, Tirana city house, located on Street 'Barrikada'. It is a first Category monument, listed as such in 1980. The building has a rectangular layout plan and has two floors, not representing the 'fire-house' typology, around which all the main functions were developed, and which is typical of this area in Albania. The first floor functioned as a so-called 'ahur' in the Albanian traditional architecture where the households and food were stored. The second floor, which was the main living space, is higher and contains decorative elements, both woodwork on the ceilings and decorative window frames. As a result of the changes in the 1930s the house has lost its original appearance. The changes can be noticed in the windows, which have been enlarged, and the creation of a balcony with iron railing in the middle of the facade. The house has two entrances, on completely opposite facades, as it served for two families and apparently one half of the house, the one not visible from the street, stands today uninhabited, neglected and endangered.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_of_Hasan_Reshat_Petrela",
+        "image": "/Buildings/tirana/House_of_Hasan-Reshat_Petrela_04.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.81948,
+         41.33209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The former Municipality of Tirana",
+        "description": "The project was realized by Florestano Di Fausto from 1928 and constructed in 1931. It is considered to be one of the most well-achieved project implementations, compared to the other buildings of the administrative complex, designed by him. It had a very important urban position in the north part of the Scanderbeg square, along also two main streets, 'Boulevard Zog' and 'Nana Mbretnesh'. It was the seventh building to be realized after the construction of the other Ministries. The building was planned to be demolished after 8 years, of the construction work, as part of the General Regulation plan of Bosio of 1939, but in reality, it was demolished after 40 years in the 80', during the Communist regime, to make space for the construction of the National Museum of History.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:The_first_Municipality_of_Tirana",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.81714,
+         41.32928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Former 'Dajti' Hotel",
+        "description": "It is a second category Monument, announced in March 2007, extending very prominently along the 'Dëshmorët e Kombit' Boulevard. Designed by one of the most famous architects of the time, Gherardo Bosio and designed in detail by Gio Ponti in 1939-1941 (considered the father of modern European design). It is considered as Bosio's first rational architectural work and seeks to create a special urban relationship with the Ministries buildings. The 'Dajti' Hotel is regarded as one of the symbols of Albanian tourism, especially before the 1990s, where it was the main stop for foreigners visiting Albania. It was considered one of the most luxurious buildings in the city and the most modern in the Balkan, attracting the most important personalities of the world. This hotel used to have 91 rooms, 125 beds, conference facilities, bars, and luxury restaurants and services. The total area of the territory in which Hotel 'Dajti' is located, is 8760 m2. It has an L-shaped layout organized along the Boulevard in two volumes. The first volume, whose facade was covered with travertine and had a horizontal extension, hosting a large hall, a bar, a restaurant. While the other volume holds room spaces oriented or facing east and west with a strict, sense of rhythm, visible in the room-loggias. The main entrance was un-centered and covered with a prominent shelter, peninsula two meters above street level.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Former_Hotel_Dajti",
+        "image": "/Buildings/tirana/Hotel_Dajti-01.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82011,
+         41.32467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residential Building on 'Hysen Dalliu' street",
+        "description": "This building situated in a very busy overbuilt neighborhood, surrounded by high-rise residential buildings, has many co-owners, who nowadays do not live in the city anymore. The ground floor has assumed the function of a coffee bar. Also, one of the rooms is used by one person. The upper floors are deserted, uninhabited. The functional partition of the building was one apartment per floor. One of the facades has been completely changed from its original aesthetic and treatment from which, a rational, modernist architecture can be noticed.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Residential_Building_on_%27Hysen_Dalliu%27_street",
+        "image": "/Buildings/tirana/Residential_Building_on_Hysen_Dalliu_street.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.81571,
+         41.33545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'The high tower'(kulla) and House of Qanie Toptani (Libohova)",
+        "description": "The tall tower and the house of 'Qanie Toptani' today situated within the walls of the Fortress of Tirana. None of the structures are listed as Monuments, as Cultural Heritage Assets, despite clear and visible architectural and historical values. The tower is believed to have been built as a residence by 'Sulejman Pasha', one of the founders of the city of Tirana, and later his cousin 'Ahmet Pasha' made sure to surround the family residence with the walls, the present-day fortress walls. So the Long Tower was built before the Fortress of Tirana is thought to overrun the 17-18th centuries and has been burned and rebuilt over the years. It is believed to have been the first residential construction, realized on more than one floor. Later when the power passed into the hands of another large family of the time that of the 'Toptani' family (very powerful in Kruja during the 18th century, where they built the residence today known as the Ethnographic Museum of Kruja), who realized in its courtyard their building quite extensively in horizontality and later, another residence, which today constitute the few existing examples of that important period for this family. It is believed that in one of the rooms of this house, around the 20' used to live for some time the french politician Justin Godard and also around the 80' this was the house where moments from the Albanian movie 'Nentori i dyte' (directed by Viktor Gjika) were shot.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_%27Libohova%27",
+        "image": "/Buildings/tirana/House_Libohova_02.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82219,
+         41.32563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa no.3 on 'Diber' street",
+        "description": "This villa is thought to have been built around 1942. It is also thought to have been commissioned by an Italian who later died. The land is owned by the 'Begeja' family (one of the most known old families of the city), and the house has 10 owners nowadays. It is also believed that during the years of communism it served as a place of torture.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Villa_3_on_Diber_street",
+        "image": "/Buildings/tirana/Villa_3_on_Diber_Street_06.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82245,
+         41.33214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House 'Tafaj' on Diber street",
+        "description": "This villa belonged to the 'Tafaj' family eventhough nowadays it was sold to other people. The early owners have moved to another place to live and for more than 50 years the villa have been abandoned.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:House_Tafaj_on_Diber_street",
+        "image": "/Buildings/tirana/House_Tafaj_02.jpg",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82336,
+         41.33429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "'Partizani' Cinema",
+        "description": "The 'Partizani' cinema was built in 1956 and was the largest cinema in Tirana with a capacity of 780 people. The project was realized by arch. Koco Miho and was siuated along the 'Barrikada' Street, in front of the 'Partizani i panjohur' monument, where the cinema took its name. It consisted of a platea and a balcony, also a special element of its kind was the creation of a space in the continuation of the entrance hall, as a concert hall with smaller capacities for people who came earlier to the cinema, but did not find application in other cinemas built in Tirana. Simple volumetric, compact, symmetrical composition, to give a little life to the facades, cracks are realized in the side facades that did not match the function of the construction typology. In front of it was built a residential building with space on the ground floor, through which the entrance of the cinema could be seen only.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:%27Partizani%27_Cinema",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.82275,
+         41.32806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Restaurant 'Tekstil'",
+        "description": "Abandoned, neglected building in the Former City of Kombinat, that has been used as an important restaurant for local workers and people living in the area.",
+        "linked": "More photos\nhttps://commons.wikimedia.org/wiki/Category:Restaurant_Tekstil_in_%27Kombinat%27",
+        "exists": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         19.76922,
+         41.31118
+         ]
+       }
+     }
   ]
 }

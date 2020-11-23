@@ -147,7 +147,6 @@ var eventsLayer = omnivore.geojson('/geodata/{{page.map-level}}/{{page.map}}.geo
             var title = layer.feature.properties.name;
             var description = layer.feature.properties.description;
             var image = layer.feature.properties.image;
-            var large = layer.feature.properties.large;
             var linked = layer.feature.properties.linked;
             var exists = layer.feature.properties.exists;
             var link = linked.match(regexp) ? linked.match(regexp)[0] : undefined;
