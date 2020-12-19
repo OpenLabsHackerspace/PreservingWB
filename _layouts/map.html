@@ -21,20 +21,13 @@ layout: default
 
   <div class="event-list"></div>
 
-  <p class="footer">Made with ❤️ by
+  <p>Made with ❤️ by
     <a href="/team" target="_blank" >Team</a>. Find the source code
     <a href="https://github.com/OpenLabsHackerspace/PreservingWB" target="_blank" rel="noopener">on Github</a>.
   </p>
-  {% if page.map-level=='country'%}
-  {% elsif page.map-level=='city'%}
-  <p class="footer">Bibliography of the project is documented
+  <p>Bibliography of the project is documented
     <a href="/bibliography#{{page.map}}" target="_blank" >here</a>.
   </p>
-  {% else %}
-    <p class="footer">Bibliography of the project is documented
-      <a href="/bibliography" target="_blank" >here</a>.
-    </p>
-  {% endif %}
   <p><img style="margin-left: -0.6%;" src="/assets/img/logo-sponsors.png" width="100%" height="auto"></p>
 
 </div>

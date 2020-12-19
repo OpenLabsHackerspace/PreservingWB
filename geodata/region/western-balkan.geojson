@@ -10,7 +10,7 @@
          "properties":{
             "name":"Albania",
             "url":"/Albania",
-            "description": "Enter description here"
+            "description": "Find here an ongoing collection of some of the most representative valuable but endangered, neglected or demolished architecture assets, of the city of Tirana"
          }
       },
       {
@@ -21,7 +21,7 @@
          },
          "properties":{
             "name":"Kosovo",
-            "description": "Enter description here",
+            "description": "Find here an ongoing collection of some of the most representative valuable but endangered, neglected or demolished architecture assets, of the city of Pristina",
             "url": "/Kosovo"
          }
       }
