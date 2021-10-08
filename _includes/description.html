@@ -34,7 +34,7 @@
       {% if page.map-level=="region" %}
       <p>Find all the project photos on the platforms: <a href="https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Tirana" target="_blank" rel="noopener">Tirana</a>, <a href="https://commons.wikimedia.org/wiki/Category:Historic_neglected_buildings_of_Pristina" target="_blank" rel="noopener">Prishtina</a> (wikimedia commons)</p>
       {% elsif page.map-level=="country" or page.map-level=="city"%}
-      <p>Find all the photos on the platform: <a href="{%if page.map=="albania"%}https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Tirana{%elsif page.map=="kosovo"%}https://commons.wikimedia.org/wiki/Category:Historic_neglected_buildings_of_Pristina{%endif%}" target="_blank" rel="noopener">Wikimedia commons</a></p>
+      <p>Find all the photos on the platform: <a href="{%if page.map=="albania" or page.map=="tirana"%}https://commons.wikimedia.org/wiki/Category:Old_historical_buildings_of_Tirana{%elsif page.map=="kosovo" or page.map=="pristina"%}https://commons.wikimedia.org/wiki/Category:Historic_neglected_buildings_of_Pristina{%endif%}" target="_blank" rel="noopener">Wikimedia commons</a></p>
       {% endif %}
       <p>Read about the license: <a href="/license" rel="noopener" target="_blank">Project license</a></p>
       <p style="margin-bottom: -5%;">To contribute to the project: <a href="/contributing" rel="noopener" target="_blank">Contribution guide</a></p>
