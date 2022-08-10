@@ -1,19 +1,9 @@
 ---
 layout: default
 ---
-{% if page.map-level=="city" and page.map=="tirana" %}
-<div class="map-container-tirana">
+<div class="map-container{%if page.map%}-{%endif%}{{page.map}}">
   <div id="map"></div>
 </div>
-{% elsif page.map-level=="city" and page.map=="pristina" %}
-<div class="map-container-pristina">
-  <div id="map"></div>
-</div>
-{% else %}
-<div class="map-container">
-  <div id="map"></div>
-</div>
-{% endif %}
 
 <div class="info-container">
     {% include description.html %}
@@ -113,13 +103,8 @@ var map = L.map('map').setView([41.3282, 19.8158], 14.3);
 L.tileLayer.provider('CartoDB.Positron').addTo(map);
 
 var GreenIcon = L.icon({
-  {% if page.map=="tirana" %}
-    iconUrl: '/assets/img/map-icon-tirana.svg',
-    iconRetinaUrl: '/assets/img/map-icon-tirana.svg',
-  {% elsif page.map=="pristina" %}
-    iconUrl: '/assets/img/map-icon-pristina.svg',
-    iconRetinaUrl: '/assets/img/map-icon-pristina.svg',
-  {% endif %}
+    iconUrl: '/assets/img/map-icon-{{page.map}}.svg',
+    iconRetinaUrl: '/assets/img/map-icon-{{page.map}}.svg',
     iconSize: [28, 28]
 });
 
@@ -172,25 +157,11 @@ var eventsLayer = omnivore.geojson('/geodata/{{page.map-level}}/{{page.map}}.geo
             layer.on('click', onPinClick);
 
             function onPinClick(e) {
-
-              {% if page.map-level=="city" and page.map=="tirana" %}
-                const eventslist = document.querySelectorAll(".event-item-tirana");
-              {% elsif page.map-level=="city" and page.map=="pristina" %}
-                const eventslist = document.querySelectorAll(".event-item-pristina");
-              {% else %}
-                const eventslist = document.querySelectorAll(".event-item");
-              {% endif %}
+                const eventslist = document.querySelectorAll(".event-item{%if page.map%}-{%endif%}{{page.map}}");
                 eventslist.forEach(element => {
-              {% if page.map=="pristina" or page.map=="tirana" %}
                     element.style.border = "0.05rem #000 solid";
-              {% endif %}
-                    element.style.color = "#000";
                 });
-              {% if page.map=="tirana" %}
-                document.getElementById(`${title}`).style.border = "0.25rem #b18d21  solid";
-              {% elsif page.map=="pristina" %}
-                document.getElementById(`${title}`).style.border = "0.25rem #0876a4  solid";
-              {% endif %}
+                document.getElementById(`${title}`).style.border = "0.25rem #{%if page.map=='tirana'%}{%if page.map=='tirana'%}b18d21{%elsif page.map=='pristina'%}0876a4{%endif%}{%elsif page.map=='pristina'%}0876a4{%endif%}  solid";
                 document.getElementById(`${title}`).style.color = "#24625C";
                 window.location.href = `#${title}`;
             }
@@ -243,13 +214,7 @@ var eventsLayer = omnivore.geojson('/geodata/{{page.map-level}}/{{page.map}}.geo
             }
 
             var eventsListItem = document.createElement('div');
-              {% if page.map-level=="city" and page.map=="tirana" %}
-                eventsListItem.className = "event-item-tirana";
-              {% elsif page.map-level=="city" and page.map=="pristina" %}
-                eventsListItem.className = "event-item-pristina";
-              {% else %}
-                eventsListItem.className = "event-item";
-              {% endif %}
+            eventsListItem.className = "event-item{%if page.map%}-{%endif%}{{page.map}}";
             eventsListItem.id = `${title}`;
             eventsListItem.innerHTML = eventsListItemContent;
             eventsList.appendChild(eventsListItem);
@@ -283,31 +248,16 @@ map.scrollWheelZoom.disable();
     })
 </script>
 
-{% if page.map-level=="city" and page.map=="tirana" %}
 <style>
 .leaflet-popup-content-wrapper {
-  border: 0.3rem #b18d21 solid;
+  border: 0.3rem #{%if page.map=='tirana'%}b18d21{%elsif page.map=='pristina'%}0876a4{%endif%} solid;
 }
 .event-description a, .info-container a {
-  color: #b18d21;
+  color: #{%if page.map=='tirana'%}b18d21{%elsif page.map=='pristina'%}0876a4{%endif%};
 }
 .existance {
-  color: #b18d21;
+  color: #{%if page.map=='tirana'%}b18d21{%elsif page.map=='pristina'%}0876a4{%endif%};
 }
 </style>
-{% elsif page.map-level=="city" and page.map=="pristina" %}
-<style>
-.leaflet-popup-content-wrapper {
-  border: 0.3rem #0876a4 solid;
-}
-.event-description a, .info-container a {
-  color: #0876a4;
-}
-.existance {
-  color: #0876a4;
-}
-</style>
-{% else %}
-{% endif %}
 
 {{ content }}

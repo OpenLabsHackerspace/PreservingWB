@@ -1,0 +1,9 @@
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  buildings:
+    output: false
+  geodata:
+    output: true
+    permalink: /:collection/:categories/:title

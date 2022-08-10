@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Villa_of_the_former_Radio_Tirana"
+longitude: "19.81148"
+latitude: "41.328533"
+image: Villa_of_the_former_Radio_Tirana_small.jpg
+---
+This Villa is a Monument of second category. Represents the first mediatic Institution in Albania. The villa was built in 1938 from a very rich and important family of Tirana 'Kollciu' with the main purpose to be a house for two brothers, fact that is also emphasized by the symmetric plan organization of the villa. Later on it was seized under the order of King Zog and it served as the base for 'Radio Tirana' until 1965. After that its inner space was used by The Institute of Anthroplogy and Art studies, which later on moved also from there since its private owners appeared again and today It stands in very bad conditions. The villa is composed by four floors and one of them stands underground .It has two main entrances and one of them is directed towards the backyard. It has a very harmonic, neoclassical façade with columns without orders, prefabricated granil (granulated stones composition) staircase, a main hallway with marble tiles, windows with wooden frames, metallic balustrades. Currently there are some people from the ‘rome’ community living in the building. It is believed that the actual owner of the Villa led them ‘squat’ and clean the inner space before taking back the villa and reconstruct it for its main interest. It is believed. Everything regarding the fate of the villa is a speculation, some of the inhabitants around the neighbourhood say the actual owner wants to recreate a Museum out of it but none of this regarding its fate is yet confirmed.

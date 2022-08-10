@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:House_%27Libohova%27"
+latitude: "41.32563"
+longitude: "19.82219"
+image: House_Libohova_02.jpg
+---
+The tall tower and the house of 'Qanie Toptani' today situated within the walls of the Fortress of Tirana. None of the structures are listed as Monuments, as Cultural Heritage Assets, despite clear and visible architectural and historical values. The tower is believed to have been built as a residence by 'Sulejman Pasha', one of the founders of the city of Tirana, and later his cousin 'Ahmet Pasha' made sure to surround the family residence with the walls, the present-day fortress walls. So the Long Tower was built before the Fortress of Tirana is thought to overrun the 17-18th centuries and has been burned and rebuilt over the years. It is believed to have been the first residential construction, realized on more than one floor. Later when the power passed into the hands of another large family of the time that of the 'Toptani' family (very powerful in Kruja during the 18th century, where they built the residence today known as the Ethnographic Museum of Kruja), who realized in its courtyard their building quite extensively in horizontality and later, another residence, which today constitute the few existing examples of that important period for this family. It is believed that in one of the rooms of this house, around the 20' used to live for some time the french politician Justin Godard and also around the 80' this was the house where moments from the Albanian movie 'Nentori i dyte' (directed by Viktor Gjika) were shot.
