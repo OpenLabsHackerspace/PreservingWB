@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Prishtina_great_Hammam"
+longitude: "21.166049"
+latitude: "42.6669463"
+image: The_Great_Hamam_of_Prishtina_03.jpg
+---
+The Great Hammam is thought to date back to the 15th century. It was once part of the Sultan Murat Fatih Mosque complex and according to a legend, the builders of the Mosque were ordered by Sultan Mehmet II to bathe daily in the hammam. The structure which is still found today belongs to the typology of double hammams, where both genders use it at the same time. The hammam consists of 16 domes (in some sources 18 domes) covered with lead and with small openings to allow light to penetrate. The monograph of Pristina mentions the role that the spaces of the hammam have played in the social and entertaining aspect of the citizens of Pristina, especially the women at a time when her outgoing and entertainment in public space was not practical. In the memory of this generation the hammam was a space of meetings and entertainment, where the bride was prepared on the wedding day, where mothers chose brides for their sons and where the parties were held, until the 60s when it was abandoned and used as a warehouse. A fire that broke out in 1994 resulted in the illegal opening of three shops that blocked the old entrance. In 2006 restoration of the large hammam took place, an intervention that lasted until 2013 when the work was stopped due to unprofessional interventions. Today the hammam has completely lost its originality on the east and south face, losing the main distinguishing features for this typology. The buildings erected on the perimeter of the monument, especially those in the northern and western part of the building, have suffocated the building by not allowing the luminescence of this monument.

@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Former_Restaurant_Marsi"
+longitude: "21.164645"
+latitude: "42.6751145"
+image: Ex_Restaurant_Mars_04.jpg
+---
+According to the book Abandoned Sites of Kosovo, the building was originally built as a self-service (market) dedicated to the residents of the neighborhood 'Kodra e Trimave' (Vranjevc) by the State Commercial Enterprise 'Voçari' and functioned as such until 1994. Some other sources say that self-service was built in the late 70s. In 1995 it was transformed into a private restaurant called 'Restaurant Mars', which during these years was an important celebration space for the society of the 90s, where many music events, weddings, mature evenings and beauty contests were held. The work of the restaurant was stopped by the events of war of 1999. In the post-war years the space was used as a nightclub while since 2003 the space has been abandoned without function. The building has a clean octagonal shape, with entrance on the north side. It has two floors but from the outside, as a result of the architectural expression it is understood as a single space, without clean separation of floors. The space inside is free with a column in the middle of the octagon. The constructive elements are visible and intentionally exposed both from outside the building and inside the spaces. These elements become the main emphasis of the architectural language of the building. In an attempt to turn attention towards the abandoned buildings, in October 2019, the local artist Fitore Isufi-Koja presented an artistic intervention called 'Flirting with leftovers'. From the September 2020 visit, the building shows severe state of spatial deterioration, material loss and roof damage. Due to the fact that the space is obsolete and open, this space has turned into a source of bad events.

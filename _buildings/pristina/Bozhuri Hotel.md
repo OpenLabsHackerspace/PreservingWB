@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Bozhuri_Hotel"
+longitude: "21.16389"
+latitude: "42.66264"
+image: Bozhuri_Hotel_03.jpg
+---
+Following the application of the General Urban Plan of 1953 and the restructuration of the historic center of Pristina,  the Llokaqi Mosque built in 1551, was destroyed in 1954 to clear space for the erection of  the Hotel 'Kosovo Bozhur '(Peony of Kosovo). The hotel is named after the peopny flower, the type of flower that is very common in Kosovo. The building was designed by engineer B. Pozanjakov and architect G. Nechayev, in the period 1955 -1958. It has a humble design, divided into two volumes, one lying horizontally at the feet of the vertical volume, which extrudes four floors above the ground floor, clearly reflecting the internal functions. The rooms were located in the vertical volume, understandable from outside as well, with spacious, recessive balconies. The horizontal volume accommodates the restaurant and other ancillary functions. Old photographs of the building, show a mosaic of three horsemen on the west façade, which has vanished during its lifespan. Hotel Bozhuri was a frequented space by citizens of Pristina where the elite of the city met, serving as a space where many important decisions were made. The former Bozhuri Hotel, later called Hotel Iliria, was privatized in 2006 and bought by the company Mabetex which currently manages under the name Swiss Diamond Hotel. Today the hotel shows almost no signs of the original building older than 50 years, covering the characteristic expression with recessive balconies and the pure, neo-rational language of modernity. Today the building shows a mixture of neoclassical elements and contemporary materials, incompatible, that do not fit into the surrounding urban context and in total discrepancy with the architectural identity of the city.

@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:The_first_Albanian_school_in_Pristina"
+longitude: "21.1644585"
+latitude: "42.6672334"
+image: The_first_Albanian_school_in_Pristina_04.jpg
+---
+The building of the first Albanian school is located in the western part of the historic center of Pristina, in the triangle that is formed from the 'Trepca' and 'Ilir Konushevci' streets. The two-story building was built in the second half of the XIX century by Abdurrahman Pasha, an Albanian from Pristina. In 1880 the building was burned down and later it was rebuilt by the sons of Abdurrahman Pasha. In 1908, this building opened a gymnasium with 250 Albanian students. After World War II it was once used as a military garrison of the former Yugoslavia. This building has been used as a residence by some families, for some time. The building has an approximate square layout, characteristic of the time in which it was built because it is detached from the architectural shaping features as well as from the architectural typology of the buildings of the time. The ground floor has a surface of 290 m² and together with the first floor reaches a surface of about 580 m², not counting the basement area, which is not accessible but is assumed to be there based on the southwest facade photo. The walls of the building are made of plaster-coated stones and bricks, that have been degraded over time. The mid-floor construction is made of wood and filled with clay mortar. Traces on the northeast façade show that the windows have undergone a change from their initial condition. The original openings are preserved on the southwest facade. There are traces on the façade showing that the windows have been used with a repeated pace and rhythm.Today the building is abandoned and in a very deteriorated condition, surrounded by protective fences to safeguard the citizens who cross beside it.

@@ -1,0 +1,8 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Kosova_Bank_Building"
+longitude: "21.1562307"
+latitude: "42.6600244"
+---
+In the 1970s, when provinces like Kosovo won the autonomy from the Yugoslav Federation, to manage its natural resources, the necessity for banking and administrative space arouse, both within the country and with other countries in the federation. For this reason a competition opened in 1972 and this project was won by architects Milan Tomić and Milan Pavlović. Construction began in 1975 and lasted until 1978. Kosova Bank had thirteen floors and the volume of the ground floor where the main entrance was located. The administrative spaces were located in the vertical tower, therefore the building has transparency with many windows, for which its height is not felt as visual weight. It is thought that the original project planned two identical towers, but only one of them was realized. As the volume increases, the floors area shrinks, creating gradual decreasing terraces along the verticality of the volume. Another feature is the readability of the construction which also participates in the architectural composition. The levels of the floors (construction slabs) and the main structural axis of the tower are very visible on the façade of the building and give its verticality. On the main axis are located the stairs visible from outside, creating dynamic movement within the volume. Since the 1999 war, the building accommodates Kosovo government offices and several ministries. It was renovated with new, incompatible materials covering the appearance of the structure and the original architectural expression, of the architectural movement the building represents.

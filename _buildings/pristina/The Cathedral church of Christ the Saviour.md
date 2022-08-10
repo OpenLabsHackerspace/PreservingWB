@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Christ_the_Savior_Cathedral_in_Pristina"
+longitude: "21.16358"
+latitude: "42.65850"
+image: Cathedral_Church_of_Christ_the_Saviour.jpg
+---
+It is an unfinished Serbian Orthodox Christian Church, whose construction started in 1992 and was afterward interrupted because of the war in Kosovo, in the courtyard of the University of Pristina. This event happened when Kosovo lost its autonomous status from the Yugoslav Federation in 1989, therefore the Municipality of Pristina under the Belgrade influence, gave a portion of land belonging to the University of Pristina to the Serbian Orthodox Christian Church, in a troubled time where students and teachers were being expelled from the university building. The construction of the building was opposed by the Muslim population in Pristina. During the War in 1999, an attempt to demolish the building was done, using explosive but little damage were made to it, in the end. It was seen as a symbol fo the 'serbization' campaign therefore after the War it was continuously vandalized. The Municipality of Pristina with a majority of Albanian population proposed four uses for the building: keeping it in its actual state, demolishing it, maintaining it as a Museum or using it for some alternative purposes. The problems with the building were translated into the issue for the ownership of the land it was constructed, making the future of this building still today quite uncertain. The ownership of the land was disputed, through the years between the SOC ( Serbian Orthodox Church) and the University of Pristina, also in 2016 it was set on fire, and vandalized even more. the Kosovo Appeal Court granted land ownership rights to the SOC, even though the University of Pristina continues to block any attempts to continue with the refurbishment of the Church.
