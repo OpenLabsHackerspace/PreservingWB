@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:House_of_Kurtesh_Sulejmani"
+longitude: "21.165813"
+latitude: "42.666397"
+image: House_of_Kurtesh_Sulejmani_02.jpg
+---
+The Residential House listed under the name of Kurtesh Sulejmani was built in the 1880s and is located on the street, in the historic core near the Jashar Pasha Mosque and the Museum of Kosovo. Near this house one can find other houses of the same period as that of Sali (Hyrie) Shafqiu and Muharrem Sejdiu. From old photos of Pristina it can be seen that the whole order and neighborhood near this building has been inhabited with similar typology. Due to its deterioration and structural revelation from the loss of the façade, it can be seen that the house has a bondruk construction system consisting of a wooden frame structure with adobe brick filling. It is a two-storey building, with the largest first floor, preserved above the ground floor. The ground floor is visually impermeable due to the lack of openings while the first floor has generous windows placed on the street facade. In its current state, the monument has been abandoned and severely deteriorated. During the visual observation in August 2020, the house appears to be abandoned in a severely damaged condition with loss of roof covering and building elements, loss of envelope material and loss of structural integrity. It is important to mention the concern of leaving these buildings at the mercy of time and certain individuals or groups who destroy the heritage for business gain. The last remnants of the historical fabric of Pristina are completely disappearing, completely erasing an entire era of culture and residential architecture of the XVIII and XIX century. The country's institutions for the maintenance and care of the heritage, especially the architectural one are responsible but nothing can be achieved without the involvement and contribution of the community.

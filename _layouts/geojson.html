@@ -1,0 +1,30 @@
+{%- if page.categories contains "city" -%}
+{
+  "type": "FeatureCollection",
+  "features": [
+{%- assign buildings = site.buildings | where: 'city', page.slug -%}
+  {% for post in buildings %}
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "{{post.path | remove: '/' | remove: '_buildings' | remove: post.city | remove:'.md'}}",
+        "description": "{{post.content | strip_html | strip_newlines}}",
+        "linked": "More photos\n{{post.link}}",
+        "exists": {% if post.demolished==true%}"no",{%else%}"yes",{%endif%}
+        "image": {% if post.image%}"/buildings/{{post.city}}/images/{{post.image}}"{%else%}""{%endif%}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         {{post.longitude}},
+         {{post.latitude}}
+         ]
+       }
+    }{% if forloop.last == false %},
+     {%- endif %}
+  {%- endfor %}
+  ]
+}
+{%- else -%}
+{{page.content}}
+{%-endif-%}

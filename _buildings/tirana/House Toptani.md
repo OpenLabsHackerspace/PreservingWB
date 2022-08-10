@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:House_Toptani"
+latitude: "41.329048"
+longitude: "19.827506"
+image: House_Toptani_03.jpg
+---
+This vernacular, traditional house was listed as a first category Monument in December 1987 and one of the representatives of the traditional house of Tirana. The traditional house of Tirana, occupies a special position in the architecture of the Albanian urban houses.  The masonry ranges in width from 60 to 70 cm. The adobe bricks are tied with clay mortar mixed with straw. Every 1 m bands of adobe bricks wall are tied to bands of wood with an anti-seismic function. Construction of these houses with adobe bricks is typical of Central Albania and was allowed as a type of construction in Tirana until around 1923. The facade wall of the 'guest room' on the upper floor, is made out of this traditional, older but light construction(wooden planks with layers of plaster), known as 'çatma'. It is believed to belong to one of the biggest families of the city, 'Toptani' family, more precisely belongs to Maliq Toptani. Today it is believed to be divided between two families, because of its two main entrances and the fact that the ground floor of one half of the house has gone through some reconstructions and changes from its original condition.In this typology from the simplest to the most developed types, we find the same functional concept expressed in the grouping and organizing all the main functions around a central core, known as 'the house of fire'. In the original types, it is a village house, but in its development as well as in its most perfect forms it never failed to separate from the rural house and it is precisely this reason that this house at the beginning of the 20th century was not built anymore because it did not have the requirements to somehow fulfill the needs of the time.

@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Kombinati_tekstileve_%27Stalin%27_Tiran%C3%AB"
+longitude: "19.76552"
+latitude: "41.31504"
+image: kombinat_2_small.jpg
+---
+The idea of the plan to realize ‘Kombinati Stalin’ of textiles, came up in the second meeting of the Congress of PPSH (Albanian Labour Party) where it was decided that Albania would develop as an agricultural and industrial country. The plan had a clear view of organizing the industrial areas in the closer suburbs, so that it won't be a big distance from the city center, therefor they could have under control the cost for proper transportations. Their location in the suburbs, was meant in case of further expansion of these areas. 'Kombinati Stalin’ of textiles was built with the help (economical and expertise) of the Soviet Union, it occupied an area of 25ha at the ‘Yzberisht’ valley, around 5km away from the city center. Albania was under a totalitarian regime and the concept of the city back then, was that of a ‘static’ one with separated areas with specific functions each, therefore the intent was to create a small city in 'Kombinat' with a working area, residential area (for workers), recreational area so that they wouldn’t need to move to the city center, but all their life would be organized in that micro-unit city. It was built around 1948 and the production started around 1951. During that time, it was one of the biggest industrial areas in Albania. The number of the people employed there until 1953, was 2200 and the intent was to increase that number to 4500, by 1955. 'Kombinati' had also its own powerhouse.

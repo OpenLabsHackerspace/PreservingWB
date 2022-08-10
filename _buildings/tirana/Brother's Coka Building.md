@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Brother%27s_Coka_Building"
+latitude: "41.3315"
+longitude: "19.81776"
+image: Brothers_Coka_Building_02.jpg
+---
+Situated on Boulevard 'Zogu I', formerly called 'Vitorio Emanuele Boulevard'. It was designed by Skender Luarasi with consultant architect for the project, Ferdinando Poggi. The owners of the land, Theodor and Profi Coka, ordered the construction of the building, around 1946 (in 1942 they applied for the first permit). This building is situated near the palace designed by Max Velo (known as' The Journalists Coffee') .Initially the plan was to realize it on three floors while it was later realized in five such that the last one is shifted than the other floors, leaving room for a rooftop and slightly breaking its rationalistic volume. The upper floors have been treated with decorative ceilings with a very clean rational spirit and some of the rooms have been decorated with chimneys with several types of marble, the same used in the stairs. Part of the building is located on the site where 'Bar Odeon' used to be, a very prestigious site for the time. This building has changed its function over the years, served for a period as the 'Albanian Telegraphic Agency' later as a space for 'Bashkimi Publishing'  and after 90' Top Channel offices were welcomed there. The last two floors have been used as UFO University dormitories. It represents a second category monument and recently, the building is under a process of facade restoration and interior reconstruction, waiting to be transfomed co-working, cultural hub, by private initiative investment.

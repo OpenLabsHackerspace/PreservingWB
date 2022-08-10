@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:Abedin_Toptani%27s_Sarajet"
+longitude: "19.821213"
+latitude: "41.327104"
+image: Toptani_s_Sarajet_small.jpg
+---
+Toptani’s Sarajet have been built around 1833-1840, one of the least buildings realized during the feudal period, in Albania. It possesses a space of around 32 rooms, all decorated in oriental style. It represents a very important architectural complex constructed with massive bearing walls made out of qerpic and antisismic wooden wall beams, that give to it the feeling of a fortification or fortress. This being a type of  building and construction technique spread in Albania during the second half of the 19th century, during the feudal order. It’s a two storey building, listed as a  Monument of Culture, built with traditional techniques from old masters from Diber. It has special values not only for thenner functional organization but also for its architectural treatment and decorations. It's exterior is treated with simplicity, plain and clear volumetry with a white facade and some wooden decorative windows. It has an abundant garden space in front, with a well and the entire complex is surrounded by high walls with a principle gate. During A.Zogu's regime it was used as The National Library and further on during Communism it served as the officies of the Institute of Monuments and Culture (it is believed around 1963).  Its ownership returned back to its original owners and for awhile was used as a Bar/restaurant, despite this today stands not functional and non-accessible to the public.

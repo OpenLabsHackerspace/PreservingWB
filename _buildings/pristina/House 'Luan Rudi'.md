@@ -1,0 +1,9 @@
+---
+city: pristina
+demolished: false
+link: "https://commons.wikimedia.org/wiki/Category:House_of_Luan_Rudi"
+longitude: "21.164393"
+latitude: "42.661882"
+image: House_of_Luan_Rudi_02.jpg
+---
+The house belongs to the XVIII century, the Ottoman period. It is under provisional preservation, listed in 2014-2015. Luan Rudi's house is located in 'Tringë Smajli' street in the center of Pristina. The original function was residential, but over time the ground floor has become a commercial space while the first floor is still used for residential purposes. The building is a typical example of two-story city-house type with a closed 'cardak' (open space of the upper floor in traditional Albanian houses, functioning as a summer living-room), a street-facing 'erker', 70cm and 30cm thick walls made of adobe bricks. The floor structure is made of timber covered with planks, while vertical communication is made through a wooden staircase. The house has a four slopes roof, built of timber, and covered with tiles. The interior is characterized by wall-closets(cabinets) with two wooden wings and wood-paneled ceilings with a fractured side frame on four sides and a rosette in the center. The house has survived thanks to its last owner's commitment (Rudi family), though in the poor physical condition and with several changes in its appearance and function. Considering the damage to the building and especially its roof, with the financial means from MKRS(Ministry of Culture, Youth and Sports) and with the engagement of Pristina QRTK, in December 2012 the damaged roof beams were replaced with new beams and the roof was re-covered with tiles. The interventionon the house has been taken as an emergency step to protect the building until funding is provided for its complete conservation. Referring to its typology and position, this house besides architectural values.

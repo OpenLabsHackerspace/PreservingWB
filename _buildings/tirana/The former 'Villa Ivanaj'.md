@@ -1,0 +1,9 @@
+---
+city: tirana
+demolished: true
+link: "https://commons.wikimedia.org/wiki/Category:The_former_%27Villa_Ivanaj%27"
+longitude: "19.81729"
+latitude: "41.3178"
+image: Villa_Ivanaj_small.jpg
+---
+The history of Villa Ivanaj is closly related with the history of the two Ivanaj brothers and their families, Martin and Mirash Ivanaj, both of them two very illustrious figures who invested a lot in the preservation and development of the education and Albanian language. Mirash Ivanaj as the younger brother held the position of the Minister of Education around 1933-1935 and on the other hand Martin was a very important lawyer and judge. The two of them  together created the biggest private library with the biggest amount of books, that is still preserved today in the Building that today  hosts the’ Ivanaj Institute ‘, but once used to be the residence Villa of the Ivanaj family. The Villa was built around 1939 during the Italian occupation and at that time wasn’t completely finished, it consisted of 14 rooms. Afterwards the Villa was confiscated by the Italian Military forces  and during the years several additional units of different functions were added to the Villa’s site. Drita Ivanaj (daughter of Martin),  therefore legal owner of the Ivanaj properties in Tirana, was finally able to take physical possession of her ex-residence and land in this capital city on June 5th, 2009.  She had obtained title to this legacy in 1995, but could not access or use it until the military unit that occupied it for decades, free of charge. Today instead of this Villa there’s a  mixed-use building where on the main ground floors , ‘The Ivanaj Institute of Albania’ organizes its everyday activities.
